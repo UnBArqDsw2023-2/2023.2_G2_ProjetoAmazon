@@ -1,11 +1,10 @@
 # Primeira Reunião
 
-## Data
-    07/09/2023
-## Horário
-    14:00
-## Autores
-    Todos os presentes.
+| **Data** | **Horário** | **Autor(es)** |
+| :--: | :--: | :--: |
+| 07/09/2023 | 14:00 | Todos os presentes. |
+
+*Tabela 1: Momento da Reunião*
 
 ## Participantes
 
@@ -39,6 +38,9 @@ Reunião inicial para definir a organização inicial do grupo e repositório, a
         - Para a próxima reunião (sábado, 09/09/2023), definiu-se que todos irão se reunir, levantar um consenso sobre as ideias elicitadas e finalmente dividir as atividades de elaboração dos artefatos por duplas.
 
 ## Próxima Reunião
-    Sábado, 11h
-    
 
+| **Data** | **Horário** |
+| :--: | :--: |
+| 09/09/2023 | 11:00 |
+
+*Tabela 2: Definição da Próxima Reunião*
