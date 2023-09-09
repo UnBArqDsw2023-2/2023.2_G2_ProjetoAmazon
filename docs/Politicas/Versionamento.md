@@ -5,6 +5,7 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 08/09/2023 | Criação do documento e definição inicial da política de versionamento | Gabriel Mariano |
+| 0.2 | 08/09/2023 | Definição inicial da política de referências | Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -26,8 +27,4 @@ Todos os artefatos produzidos devem apresentar em seu início uma tabela de vers
 
 ## Referenciamento
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Referências
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Para o desenvolvimento dos artefatos ao longo do projeto, faz-se necessária a declaração das referências utilizadas na criação dos mesmo, estando dispostas ao final do documento em tópico específico para as **Referências**.
