@@ -36,4 +36,5 @@ Caso já exista data marcada, aqui é apresentada a data definida para o próxim
 | **Data** | **Horário** |
 | :--: | :--: |
 | dd/mm/aaaa | hh:mm |
+
 *Tabela 2: Definição da Próxima Reunião*
