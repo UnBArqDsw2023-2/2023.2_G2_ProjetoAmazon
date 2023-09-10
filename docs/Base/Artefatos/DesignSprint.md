@@ -7,7 +7,7 @@ Apresentar o título do artefato
 
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
-| 0.1 | 09/09/2023 | Criação do documento e definição do teamplate dos artefatos | Diógenes e Guilherme |
+| 0.1 | 10/09/2023 | Criação do documento e definição do teamplate dos artefatos | Diógenes e Guilherme |
 
 *Tabela 1: Versionamento*
 
@@ -26,7 +26,20 @@ Explicar com um breve resumo como funciona a design sprint etapas
 
 Explicar como a design sprint foi utilizada pelo grupo
 
-**LEMBRETE:** Colocar legenda nas tabelas ou figuras criadas nos artefatos.
+### Brainstorm
+Em nossa primeira reunião, decidimos dividir o grupo em duplas para realizar os brainstormings.
+Após a conclusão de todos os brainstormings em duplas, realizamos uma reunião de consolidação das ideias no dia 09/09/2023. Durante esta reunião, foram apresentadas e discutidas as propostas de todas as duplas. Com base nessas discussões, chegamos a um consenso sobre as ideias mais promissoras. As ideias apresentadas durante os brainstormings servirão como base para o próximo estágio do nosso design sprint.
+
+#### Brainstorming da Dupla 1
+- **Data:** 08/09/2023
+- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+
+<details>
+<summary>Clique para exibir a figura do brainstorming da Dupla 1</summary>
+
+![Nome da Imagem](URL_da_Imagem_Dupla_1)
+
+</details>
 
 ## Artefatos
 
