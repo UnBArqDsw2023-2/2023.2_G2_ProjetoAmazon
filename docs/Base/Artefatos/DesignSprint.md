@@ -53,7 +53,7 @@ Decision: 12/09
 Prototype: 12/09 ao 14/09
 
 ### Unpack
-Em nossa primeira reunião, decidimos dividir o grupo em duplas para realizar os brainstormings.
+Nessa fase inicial, realizamos nossa primeira reunião, na qual decidimos dividir o grupo em duplas para realizar os brainstormings.
 Após a conclusão de todos os brainstormings em duplas, realizamos uma reunião de consolidação das ideias no dia 09/09/2023. Durante esta reunião, foram apresentadas e discutidas as propostas de todas as duplas. Com base nessas discussões, chegamos a um consenso sobre as ideias mais promissoras. As ideias apresentadas durante os brainstormings servirão como base para o próximo estágio do nosso design sprint.
 
 #### Brainstorming da Dupla 1
@@ -105,11 +105,45 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
     #### [Causa Efeito](definicao_tema/rich_picture.md)
 
 
-## Artefatos
+### Decision
+Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefatos gerados durante a fase de Sketch. A equipe se reuniu para tomar uma decisão sobre como avançar para o desenvolvimento do protótipo. O artefato principal criado nesta etapa é a 'Ata da Reunião de Decisão'. A seguir está o link para o artefato:
 
-Hiperlinks para os artefatos desenvolvidos pelo grupo. 
+- **Data:** 08/09/2023
+- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Ferramentas Utilizadas:** Miro e Discord
 
-Mostrar em uma linha ou duas um breve resumo sobre o que é o artefato (opcional).
+!!! info "Clique sobre o nome para acessar o artefato"
+    #### [Ata da Reunião de Decisão](definicao_tema/rich_picture.md)
+
+### Prototype
+Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de baixa fidelidade, o qual foi utilizado para auxiliar na montagem do protótipo de alta fidelidade, e um de alta fidelidade, que nos garante avaliar, na fase futura, nossos insights elicitados nas fases anteriores de maneira abrangente e iterativa. Através desse protótipo, podemos visualizar as funcionalidades, a usabilidade e a experiência do usuário, garantindo que nossos conceitos sejam traduzidos com precisão em um produto de software bem projetado. A seguir estão os nossos protótipos:
+
+#### Protótipo de Baixa Fidelidade
+- **Data:** 08/09/2023
+- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Ferramentas Utilizadas:** Miro e Discord
+
+!!! info "Clique sobre o nome para acessar o artefato"
+    #### [Protótipo de Baixa Fidelidade](definicao_tema/rich_picture.md)
+
+#### Protótipo de Alta Fidelidade
+- **Data:** 08/09/2023
+- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Ferramentas Utilizadas:** Miro e Discord
+
+!!! info "Clique sobre o nome para acessar o artefato"
+    #### [Protótipo de Alta Fidelidade](definicao_tema/rich_picture.md)
+
+### Test
+Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de um questionário. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato do questionário utilizado para a validação:
+
+#### Questionário
+- **Data:** 08/09/2023
+- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Ferramentas Utilizadas:** Miro e Discord
+
+!!! info "Clique sobre o nome para acessar o artefato"
+    #### [Questionário](definicao_tema/rich_picture.md)
 
 ## Referências Bibliográficas
 **EXEMPLO DE REFERENCIA BIBLIOGRAFICA**
