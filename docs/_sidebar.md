@@ -12,7 +12,7 @@
 
 - **Reuniões**
   - [1.1. Primeira Reunião](/Atas/Reuniao_07-09-23.md)
-  - [1.2. Segunda Reunião](/Atas/Reuniao_07-09-23.md)
+  - [1.2. Segunda Reunião](/Atas/Reuniao_09-09-23.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)

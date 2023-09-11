@@ -1,4 +1,4 @@
-# N-ésima Reunião
+# Segunda Reunião
 
 | **Data** | **Horário** | **Autor(es)** |
 | :--: | :--: | :--: |
