@@ -74,7 +74,7 @@ Após a conclusão de todos os brainstormings em duplas, realizamos uma reunião
 Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorming da fase anterior. Para essa tarefa cada uma das duplas assumiu a responsabilidade pela criação de um artefato específico. Os artefatos produzidos nesta fase foram os seguintes:
 
 #### Rich Picture 
-- **Data:** 08/09/2023
+- **Data:** 11/09/2023
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
@@ -83,7 +83,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 
 
 #### 5W2H
-- **Data:** 08/09/2023
+- **Data:** 11/09/2023
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
@@ -91,7 +91,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
     #### [5W2H](definicao_tema/rich_picture.md)
 
 #### Mapa Mental
-- **Data:** 08/09/2023
+- **Data:** 11/09/2023
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
