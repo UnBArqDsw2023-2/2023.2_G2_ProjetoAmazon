@@ -14,15 +14,26 @@
 
 ## Introdução
 
-A introdução deve conter uma breve exposição do artefato a ser produzido. Esclarecer a função do artefato, explique sua utilidade prática e objetivo do artefato.
+Um mapa mental tem por objetivo principal representar conceitos complicados de uma mais simples e objetiva. Um mapa mental deve levar sua ideia central no meio, e partindo desta ideia central novas ideias devem ser adicionadas. 
 
 ## Metodologia
 
-A metodologia deve apresentar as ferramentas e técnicas utilizadas para construir o artefato. Além de apresentar o artefato principal desenvolvido pela dupla.
+Para a criação do artefato dois integrantes do grupo se reuniram de maneira virtual, utilizando as ideias que foram apresentadas durante o *brainstorming* realizado pelo grupo, foi elaborado o mapa mental buscando representar no artefato as ideias de uma forma mais simples.
 
-**LEMBRETE:** Colocar legenda nas tabelas ou figuras criadas nos artefatos.
+| **Data e Horário** | **Ferramentas Utilizadas** | **Autores** |
+| :--: | :--: | :--: |
+| 11/09/2023 às 20:30 | Plataforma virtual de chamadas (*Discord*) e ferramenta digital de design (*Canva*) | Arthur Taylor e Thiago Oliveira |
+
+*Tabela 2: Ambiente de criação do artefato derivado do Mapa mental*
+
+![Mapa-Mental](../../Assets/mapaMental.png)
+
+*Figura 1: Mapa Mental*
+
 
 ## Referências Bibliográficas
-**EXEMPLO DE REFERENCIA BIBLIOGRAFICA**
-> <a id="FTF1Ref" href="#FTF1">1.</a> [Aprender Arquitetura e Desenho de Software – Começando Professor(a): Milene Serrano](https://aprender3.unb.br/course/view.php?id=19535&section=1). Acessado em: 09 de setembro de 2023.
+
+**SERRANO, Milene.** "AULA - PROJETO E DESENHO DE SOFTWARE". Material disponibilizado pela docente em ambiente virtual. Acesso em 11 set. 2023.
+
+**Lucidchart**. "*Mapa Mental*: o que é mapa mental e como fazer?". Disponível em: <https://www.lucidchart.com/pages/pt/o-que-e-mapa-mental-e-como-fazer>. Acesso em 11 set. 2023.
 
