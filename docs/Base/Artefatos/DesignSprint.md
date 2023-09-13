@@ -10,6 +10,7 @@ Apresentar o título do artefato
 | 0.1 | 10/09/2023 | Criação do documento e definição do teamplate dos artefatos | Diógenes e Guilherme |
 | 0.2 | 12/09/2023 | Adição de Introdução, Metodologia da Desgin Sprint no artefato | Diógenes e Guilherme |
 | 0.3 | 12/09/2023 | Adição de referências bibliográficas | Diógenes e Guilherme |
+| 0.4 | 12/09/2023 | Adição de Hiperlinks em alguns artefatos produzidos pelo grupo | Diógenes e Guilherme |
 
 *Tabela 1: Versionamento*
 
@@ -79,7 +80,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 - **Ferramentas Utilizadas:** Miro e Discord
 
 !!! info "Clique sobre o nome para acessar o artefato"
-    #### [Rich Picture](definicao_tema/rich_picture.md)
+    #### [Rich Picture](Base/Artefatos/RichPic.md)
 
 
 #### 5W2H
@@ -88,7 +89,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 - **Ferramentas Utilizadas:** Miro e Discord
 
 !!! info "Clique sobre o nome para acessar o artefato"
-    #### [5W2H](definicao_tema/rich_picture.md)
+    #### [5W2H](Base/Artefatos/5W2H.md)
 
 #### Mapa Mental
 - **Data:** 11/09/2023
@@ -96,7 +97,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 - **Ferramentas Utilizadas:** Miro e Discord
 
 !!! info "Clique sobre o nome para acessar o artefato"
-    #### [Mapa Mental](definicao_tema/rich_picture.md)
+    #### [Mapa Mental](Base/Artefatos/mapa-mental.md)
 
 #### Causa Efeito
 - **Data:** 08/09/2023
@@ -110,12 +111,12 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 ### Decision (12/09)
 Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefatos gerados durante a fase de Sketch. A equipe se reuniu para tomar uma decisão sobre como avançar para o desenvolvimento do protótipo. O artefato principal criado nesta etapa é a 'Ata da Reunião de Decisão'. A seguir está o link para o artefato:
 
-- **Data:** 08/09/2023
-- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
-- **Ferramentas Utilizadas:** Miro e Discord
+- **Data:** 12/09/2023
+- **Membros** Todos os membros do grupo
+- **Ferramentas Utilizadas:** Discord
 
 !!! info "Clique sobre o nome para acessar o artefato"
-    #### [Ata da Reunião de Decisão](definicao_tema/rich_picture.md)
+    #### [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md)
 
 ### Prototype (12/09 ao 14/09)
 Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de baixa fidelidade, o qual foi utilizado para auxiliar na montagem do protótipo de alta fidelidade, e um de alta fidelidade, que nos garante avaliar, na fase futura, nossos insights elicitados nas fases anteriores de maneira abrangente e iterativa. Através desse protótipo, podemos visualizar as funcionalidades, a usabilidade e a experiência do usuário, garantindo que nossos conceitos sejam traduzidos com precisão em um produto de software bem projetado. A seguir estão os nossos protótipos:
@@ -140,7 +141,7 @@ Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de bai
 Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de um questionário. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato do questionário utilizado para a validação:
 
 #### Questionário
-- **Data:** 08/09/2023
+- **Data:** 12/09/2023
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
