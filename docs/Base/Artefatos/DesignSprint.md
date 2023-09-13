@@ -10,7 +10,7 @@ Apresentar o título do artefato
 | 0.1 | 10/09/2023 | Criação do documento e definição do teamplate dos artefatos | Diógenes e Guilherme |
 | 0.2 | 12/09/2023 | Adição de Introdução, Metodologia da Desgin Sprint no artefato | Diógenes e Guilherme |
 | 0.3 | 12/09/2023 | Adição de referências bibliográficas | Diógenes e Guilherme |
-| 0.4 | 12/09/2023 | Adição de Hiperlinks em alguns artefatos produzidos pelo grupo | Diógenes e Guilherme |
+| 0.4 | 12/09/2023 | Adição de Hiperlinks em alguns artefatos produzidos pelo grupo e imagem do Brainstorm dupla 1 | Diógenes e Guilherme |
 
 *Tabela 1: Versionamento*
 
@@ -67,7 +67,7 @@ Após a conclusão de todos os brainstormings em duplas, realizamos uma reunião
 <details>
 <summary>Clique para exibir a figura do brainstorming da Dupla 1</summary>
 
-![Nome da Imagem](URL_da_Imagem_Dupla_1)
+![Brainstorm_Dupla_1](../../Assets/Brainstorm_Dupla1.jpg)
 
 </details>
 
