@@ -1,6 +1,4 @@
-# Título
-
-Apresentar o título do artefato
+# Design Sprint
 
 ## Versionamento
 <center>
@@ -76,12 +74,10 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 
 #### Rich Picture 
 - **Data:** 11/09/2023
-- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Membros da Dupla:** Eduardo Santos e Pedro Lucas
 - **Ferramentas Utilizadas:** Miro e Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [Rich Picture](Base/Artefatos/RichPic.md)
-
+> <a id="FTF1Ref" href="#FTF1"></a> [Rich Picture](Base/Artefatos/RichPic.md).
 
 #### 5W2H
 - **Data:** 11/09/2023
@@ -93,7 +89,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 
 #### Mapa Mental
 - **Data:** 11/09/2023
-- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Membros da Dupla:** Arthur Taylor e Thiago Oliveira
 - **Ferramentas Utilizadas:** Miro e Discord
 
 !!! info "Clique sobre o nome para acessar o artefato"
@@ -101,7 +97,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 
 #### Causa Efeito
 - **Data:** 08/09/2023
-- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Membros da Dupla:** André Corrêa e Felipe Moura
 - **Ferramentas Utilizadas:** Miro e Discord
 
 !!! info "Clique sobre o nome para acessar o artefato"
