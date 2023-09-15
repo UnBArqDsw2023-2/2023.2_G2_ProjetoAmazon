@@ -142,9 +142,6 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 - **Membros da Dupla:** André Corrêa e Felipe Moura
 - **Ferramentas Utilizadas:** Miro e Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [Causa Efeito](definicao_tema/rich_picture.md)
-
 > <a id="FTF1Ref" href="#FTF1"></a> [Causa Efeito](Base/Artefatos/DiagramaIshikawa.md).
 
 ### Decision (12/09)
