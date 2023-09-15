@@ -161,14 +161,14 @@ Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de bai
 
 #### Protótipo de Baixa Fidelidade
 - **Data:** 08/09/2023
-- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Membros da Dupla:** Subequipe (conforme ata de reunião)
 - **Ferramentas Utilizadas:** Miro e Discord
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 #### Protótipo de Alta Fidelidade
 - **Data:** 08/09/2023
-- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
+- **Membros da Dupla:** Subequipe (conforme ata de reunião)
 - **Ferramentas Utilizadas:** Miro e Discord
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
