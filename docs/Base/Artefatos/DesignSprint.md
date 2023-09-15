@@ -14,6 +14,7 @@
 | 0.6 | 14/09/2023 | Quickfixes | André C. |
 | 0.7 | 15/09/2023 | Adicionado protótipo | André C. |
 | 0.8 | 15/09/2023 | Corrigindo ferramentas utilizadas | André C. e Gabriel Mariano |
+| 0.9 | 15/09/2023 | Pequena correção de erros | André C. e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -149,7 +150,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 - **Membros da Dupla:** André Corrêa e Felipe Moura
 - **Ferramentas Utilizadas:** LucidChart e Discord
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Causa Efeito](Base/Artefatos/DiagramaIshikawa.md).
+> <a id="FTF1Ref" href="#FTF1"></a> [Diagrama Causa Efeito](Base/Artefatos/DiagramaIshikawa.md).
 
 ### Decision (12/09)
 
@@ -162,36 +163,41 @@ Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefat
 > <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 ### Prototype (12/09 ao 14/09)
+
 Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de baixa fidelidade, o qual foi utilizado para auxiliar na montagem do protótipo de alta fidelidade, e um de alta fidelidade, que nos garante avaliar, na fase futura, nossos insights elicitados nas fases anteriores de maneira abrangente e iterativa. Através desse protótipo, podemos visualizar as funcionalidades, a usabilidade e a experiência do usuário, garantindo que nossos conceitos sejam traduzidos com precisão em um produto de software bem projetado. A seguir estão os nossos protótipos:
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Prototipação](Base/Artefatos/Prototipacao.md).
 
 #### Protótipo de Baixa Fidelidade
+
 - **Data:** 13/09/2023
-- **Membros da Dupla:** Subequipe (conforme ata de reunião)
+- **Membros da Subequipe:** Guilherme Kishimoto, Eduardo Schuindt, Arthur Taylor, Lorenzo Santos, Pedro Lucas, Thiago Oliveira
 - **Ferramentas Utilizadas:** Discord, Papel e Caneta
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Prototipo de Baixa Fidelidade](Base/Artefatos/Prototipacao.md?id=telas-prototipo-de-baixa-fidelidade).
 
 #### Protótipo de Alta Fidelidade
+
 - **Data:** 14/09/2023
-- **Membros da Dupla:** Subequipe (conforme ata de reunião)
+- **Membros da Subequipe:** Guilherme Kishimoto, Eduardo Schuindt, Arthur Taylor, Lorenzo Santos, Pedro Lucas, Thiago Oliveira
 - **Ferramentas Utilizadas:** Discord e Figma
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Prototipo de Alta Fidelidade](Base/Artefatos/Prototipacao.md?id=telas-prototipo-de-alta-fidelidade).
 
-### Test
+### Test (15/09)
 
 Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de uma Entrevista. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato da Entrevista utilizado para a validação:
 
 #### Entrevista
-- **Data:** 12/09/2023
-- **Membros da Dupla:** André Corrêa, Gabriel Mariano, Diógenes Júnior e Felipe Moura
-- **Ferramentas Utilizadas:** Google docs e Discord
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Validacao_Entrevista](Base/Artefatos/Validacao_Entrevista.md).
+- **Data:** 15/09/2023
+- **Membros da Dupla:** André Corrêa, Gabriel Mariano, Diógenes Júnior e Felipe Moura
+- **Ferramentas Utilizadas:** Google Docs e Discord
+
+> <a id="FTF1Ref" href="#FTF1"></a> [Entrevista de Validação](Base/Artefatos/Validacao_Entrevista.md).
 
 ## Referências Bibliográficas
+
 > <a id="FTF1Ref" href="#FTF1">1.</a> [Aprender Arquitetura e Desenho de Software – Começando Professor(a): Milene Serrano](https://aprender3.unb.br/course/view.php?id=19535&section=1). Acessado em: 09 de setembro de 2023.
 
 > <a id="FTF1Ref" href="#FTF1">2.</a> [Design Sprint (Resumo)](https://medium.com/gobee/design-sprint-resumo-3a5b634bd311). Acessado em: 09 de setembro de 2023.
