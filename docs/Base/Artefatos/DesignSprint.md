@@ -14,10 +14,10 @@
 | 0.6 | 14/09/2023 | Quickfixes | André C. |
 | 0.7 | 15/09/2023 | Adicionado protótipo | André C. |
 | 0.8 | 15/09/2023 | Corrigindo ferramentas utilizadas | André C. e Gabriel Mariano |
+
 *Tabela 1: Versionamento*
 
 </center>
-
 
 ## Introdução
 
@@ -164,7 +164,7 @@ Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefat
 ### Prototype (12/09 ao 14/09)
 Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de baixa fidelidade, o qual foi utilizado para auxiliar na montagem do protótipo de alta fidelidade, e um de alta fidelidade, que nos garante avaliar, na fase futura, nossos insights elicitados nas fases anteriores de maneira abrangente e iterativa. Através desse protótipo, podemos visualizar as funcionalidades, a usabilidade e a experiência do usuário, garantindo que nossos conceitos sejam traduzidos com precisão em um produto de software bem projetado. A seguir estão os nossos protótipos:
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Prototipacção](Base/Artefatos/Prototipacao.md).
+> <a id="FTF1Ref" href="#FTF1"></a> [Prototipação](Base/Artefatos/Prototipacao.md).
 
 #### Protótipo de Baixa Fidelidade
 - **Data:** 13/09/2023
@@ -178,7 +178,7 @@ Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de bai
 - **Membros da Dupla:** Subequipe (conforme ata de reunião)
 - **Ferramentas Utilizadas:** Discord e Figma
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
+> <a id="FTF1Ref" href="#FTF1"></a> [Prototipo de Alta Fidelidade](Base/Artefatos/Prototipacao.md?id=telas-prototipo-de-alta-fidelidade).
 
 ### Test
 
