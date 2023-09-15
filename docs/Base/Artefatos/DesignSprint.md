@@ -9,6 +9,7 @@
 | 0.2 | 12/09/2023 | Adição de Introdução, Metodologia da Desgin Sprint no artefato | Diógenes e Guilherme |
 | 0.3 | 12/09/2023 | Adição de referências bibliográficas | Diógenes e Guilherme |
 | 0.4 | 12/09/2023 | Adição de Hiperlinks em alguns artefatos produzidos pelo grupo e imagem do Brainstorm dupla 1 | Diógenes e Guilherme |
+| 0.5 | 14/09/2023 | Adição do roteiro da entrevista | André C. |
 
 *Tabela 1: Versionamento*
 
@@ -173,14 +174,15 @@ Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de bai
 > <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 ### Test
-Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de um questionário. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato do questionário utilizado para a validação:
+Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de uma Entrevista. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato da Entrevista utilizado para a validação:
 
-#### Questionário
+#### Entrevista
 - **Data:** 12/09/2023
-- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
-- **Ferramentas Utilizadas:** Miro e Discord
+- **Membros da Dupla:** André Corrêa e Gabriel Mariano
+- **Ferramentas Utilizadas:** Google docs e Discord
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
+> <a id="FTF1Ref" href="#FTF1"></a> [Roteiro da entrevista](Base/Artefatos/entrevistas/roteiro.pdf).
+
 
 ## Referências Bibliográficas
 **EXEMPLO DE REFERENCIA BIBLIOGRAFICA**
