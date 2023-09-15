@@ -35,30 +35,30 @@ fidelidade,  para assim juntar ideias ou até isolar uma ideia de uma das telas 
 
 ## Telas Prototipo de Baixa Fidelidade
 
-![5W2H - Primeira Aplicação](/Assets/TelasPrototipos/BaixaFidelidade/AvaliacaoDoProdutoBaixa.png)
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/AvaliacaoDoProdutoBaixa.jpg)
 
 *Figura 1: Tela de Avaliação do Produto*
 
 
-![5W2H - Primeira Aplicação](/Assets/TelasPrototipos/BaixaFidelidade/AvaliacaoDoProdutoBaixaV2.png)
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/AvalicaoDoProdutoBaixaV2.jpg)
 
 *Figura 2: Tela de Avaliação do Produto V.2*
 
-![5W2H - Primeira Aplicação](/Assets/TelasPrototipos/BaixaFidelidade/TrocaDePontosBaixa.png)
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/TrocaDePontosBaixa.jpg)
 
 *Figura 3: Tela de Troca de Pontos*
 
-![5W2H - Primeira Aplicação](/Assets/TelasPrototipos/BaixaFidelidade/TrocaDePontosBaixaV2.png)
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/TrocaDePontosBaixaV2.jpg)
 
 *Figura 4: Tela de Troca de Pontos V.2*
 
-![5W2H - Primeira Aplicação](/Assets/TelasPrototipos/BaixaFidelidade/VisualizarAvaliacaoBaixa.png)
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/VisualizarAvaliacaoBaixa.jpg)
 
 *Figura 5: Tela de Visualizar Avaliações*
 
-![5W2H-Primeira Aplicação](/Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2.pdf)
+<!-- ![5W2H-Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2.pdf)
 
-*Figura 6: Tela de Visualizar Avaliações V.2*
+*Figura 6: Tela de Visualizar Avaliações V.2* -->
 
 ## Referências Bibliográficas
 
