@@ -9,6 +9,8 @@
 | 0.2 | 12/09/2023 | Adição de Introdução, Metodologia da Desgin Sprint no artefato | Diógenes e Guilherme |
 | 0.3 | 12/09/2023 | Adição de referências bibliográficas | Diógenes e Guilherme |
 | 0.4 | 12/09/2023 | Adição de Hiperlinks em alguns artefatos produzidos pelo grupo e imagem do Brainstorm dupla 1 | Diógenes e Guilherme |
+| 0.5 | 14/09/2023 | Adição do roteiro da entrevista | André C. |
+| 0.6 | 14/09/2023 | Quickfixes | André C. |
 
 *Tabela 1: Versionamento*
 
@@ -141,9 +143,6 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 - **Membros da Dupla:** André Corrêa e Felipe Moura
 - **Ferramentas Utilizadas:** Miro e Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [Causa Efeito](definicao_tema/rich_picture.md)
-
 > <a id="FTF1Ref" href="#FTF1"></a> [Causa Efeito](Base/Artefatos/DiagramaIshikawa.md).
 
 ### Decision (12/09)
@@ -173,17 +172,17 @@ Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de bai
 > <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 ### Test
-Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de um questionário. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato do questionário utilizado para a validação:
+Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de uma Entrevista. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato da Entrevista utilizado para a validação:
 
-#### Questionário
+#### Entrevista
 - **Data:** 12/09/2023
-- **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
-- **Ferramentas Utilizadas:** Miro e Discord
+- **Membros da Dupla:** André Corrêa e Gabriel Mariano
+- **Ferramentas Utilizadas:** Google docs e Discord
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
+> <a id="FTF1Ref" href="#FTF1"></a> [Roteiro da entrevista](Base/Artefatos/entrevistas/roteiro.pdf).
+
 
 ## Referências Bibliográficas
-**EXEMPLO DE REFERENCIA BIBLIOGRAFICA**
 > <a id="FTF1Ref" href="#FTF1">1.</a> [Aprender Arquitetura e Desenho de Software – Começando Professor(a): Milene Serrano](https://aprender3.unb.br/course/view.php?id=19535&section=1). Acessado em: 09 de setembro de 2023.
 
 > <a id="FTF1Ref" href="#FTF1">2.</a> [Design Sprint (Resumo)](https://medium.com/gobee/design-sprint-resumo-3a5b634bd311). Acessado em: 09 de setembro de 2023.
