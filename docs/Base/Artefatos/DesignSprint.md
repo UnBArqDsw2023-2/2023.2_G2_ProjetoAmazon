@@ -10,6 +10,7 @@
 | 0.3 | 12/09/2023 | Adição de referências bibliográficas | Diógenes e Guilherme |
 | 0.4 | 12/09/2023 | Adição de Hiperlinks em alguns artefatos produzidos pelo grupo e imagem do Brainstorm dupla 1 | Diógenes e Guilherme |
 | 0.5 | 14/09/2023 | Adição do roteiro da entrevista | André C. |
+| 0.6 | 14/09/2023 | Quickfixes | André C. |
 
 *Tabela 1: Versionamento*
 
@@ -182,7 +183,6 @@ Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar n
 
 
 ## Referências Bibliográficas
-**EXEMPLO DE REFERENCIA BIBLIOGRAFICA**
 > <a id="FTF1Ref" href="#FTF1">1.</a> [Aprender Arquitetura e Desenho de Software – Começando Professor(a): Milene Serrano](https://aprender3.unb.br/course/view.php?id=19535&section=1). Acessado em: 09 de setembro de 2023.
 
 > <a id="FTF1Ref" href="#FTF1">2.</a> [Design Sprint (Resumo)](https://medium.com/gobee/design-sprint-resumo-3a5b634bd311). Acessado em: 09 de setembro de 2023.
