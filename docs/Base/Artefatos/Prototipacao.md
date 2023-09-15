@@ -34,27 +34,24 @@ Após a realização das telas do prototipo de baixa fidelidade, foi feito uma d
 fidelidade,  para assim juntar ideias ou até isolar uma ideia de uma das telas feitas e realizar o prototipo de alta fidelidade.
 
 ## Telas Prototipo de Baixa Fidelidade
-<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/AvaliacaoDoProdutoBaixa.jpg">
-
+![5W2H - Primeira Aplicação](../../Assets/Telas Prototipos/BaixaFidelidade/AvaliacaoDoProdutoBaixa.png)
 *Figura 1: Tela de Avaliação do Produto*
 
-<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/AvalicaoDoProdutoBaixaV2.jpg">
 
+![5W2H - Primeira Aplicação](../../Assets/Telas Prototipos/BaixaFidelidade/AvaliacaoDoProdutoBaixaV2.png)
 *Figura 2: Tela de Avaliação do Produto V.2*
 
-<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/TrocaDePontosBaixa.jpg">
-
+![5W2H - Primeira Aplicação](../../Assets/Telas Prototipos/BaixaFidelidade/TrocaDePontosBaixa.png)
 *Figura 3: Tela de Troca de Pontos*
 
-<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/TrocaDePontosBaixaV2.jpg">
-
+![5W2H - Primeira Aplicação](../../Assets/Telas Prototipos/BaixaFidelidade/TrocaDePontosBaixaV2.png)
 *Figura 4: Tela de Troca de Pontos V.2*
 
-<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/VisualizarAvaliacaoBaixa.jpg">
-
+![5W2H - Primeira Aplicação](../../Assets/Telas Prototipos/BaixaFidelidade/VisualizarAvaliacaoBaixa.png)
 *Figura 5: Tela de Visualizar Avaliações*
 
-[*Figura 6: Tela de Visualizar Avaliações V.2*](https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/VerAvaliacaoBaixaV2.pdf)
+![5W2H - Primeira Aplicação](../../Assets/Telas Prototipos/BaixaFidelidade/VerAvaliacaoBaixaV2.png)
+*Figura 6: Tela de Visualizar Avaliações V.2*
 
 ## Referências Bibliográficas
 
