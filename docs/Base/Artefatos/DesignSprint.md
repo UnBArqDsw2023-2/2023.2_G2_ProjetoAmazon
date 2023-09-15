@@ -1,6 +1,7 @@
 # Design Sprint
 
 ## Versionamento
+
 <center>
 
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
@@ -11,7 +12,8 @@
 | 0.4 | 12/09/2023 | Adição de Hiperlinks em alguns artefatos produzidos pelo grupo e imagem do Brainstorm dupla 1 | Diógenes e Guilherme |
 | 0.5 | 14/09/2023 | Adição do roteiro da entrevista | André C. |
 | 0.6 | 14/09/2023 | Quickfixes | André C. |
-| 0.7 | 15/09/2023 | Adicionado prototipo | André C. |
+| 0.7 | 15/09/2023 | Adicionado protótipo | André C. |
+| 0.8 | 15/09/2023 | Corrigindo ferramentas utilizadas | André C. e Gabriel Mariano |
 *Tabela 1: Versionamento*
 
 </center>
@@ -118,13 +120,15 @@ Após a conclusão de todos os brainstormings em duplas, realizamos uma reunião
 Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorming da fase anterior. Para essa tarefa cada uma das duplas assumiu a responsabilidade pela criação de um artefato específico. Os artefatos produzidos nesta fase foram os seguintes:
 
 #### Rich Picture 
+
 - **Data:** 11/09/2023
 - **Membros da Dupla:** Eduardo Santos e Pedro Lucas
-- **Ferramentas Utilizadas:** Miro e Discord
+- **Ferramentas Utilizadas:** LucidChart e Discord
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Rich Picture](Base/Artefatos/RichPic.md).
 
 #### 5W2H
+
 - **Data:** 11/09/2023
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
@@ -132,24 +136,27 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 > <a id="FTF1Ref" href="#FTF1"></a> [5W2H](Base/Artefatos/5W2H.md).
 
 #### Mapa Mental
+
 - **Data:** 11/09/2023
 - **Membros da Dupla:** Arthur Taylor e Thiago Oliveira
-- **Ferramentas Utilizadas:** Miro e Discord
+- **Ferramentas Utilizadas:** Canva e Discord
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Mapa Mental](Base/Artefatos/mapa-mental.md).
 
-#### Causa Efeito
+#### Diagrama Causa Efeito
+
 - **Data:** 08/09/2023
 - **Membros da Dupla:** André Corrêa e Felipe Moura
-- **Ferramentas Utilizadas:** Miro e Discord
+- **Ferramentas Utilizadas:** LucidChart e Discord
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Causa Efeito](Base/Artefatos/DiagramaIshikawa.md).
 
 ### Decision (12/09)
+
 Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefatos gerados durante a fase de Sketch. A equipe se reuniu para tomar uma decisão sobre como avançar para o desenvolvimento do protótipo. O artefato principal criado nesta etapa é a 'Ata da Reunião de Decisão'. A seguir está o link para o artefato:
 
 - **Data:** 12/09/2023
-- **Membros** Todos os membros do grupo
+- **Membros:** Todos os membros do grupo
 - **Ferramentas Utilizadas:** Discord
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
@@ -174,6 +181,7 @@ Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de bai
 > <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 ### Test
+
 Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de uma Entrevista. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato da Entrevista utilizado para a validação:
 
 #### Entrevista
