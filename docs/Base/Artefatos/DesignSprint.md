@@ -58,7 +58,7 @@ Nessa fase inicial, realizamos nossa primeira reunião, na qual decidimos dividi
 Após a conclusão de todos os brainstormings em duplas, realizamos uma reunião de consolidação das ideias no dia 09/09/2023. Durante esta reunião, foram apresentadas e discutidas as propostas de todas as duplas. Com base nessas discussões, chegamos a um consenso sobre as ideias mais promissoras. As ideias apresentadas durante os brainstormings servirão como base para o próximo estágio do nosso design sprint.
 
 #### Brainstorming da Dupla 1
-- **Data:** 08/09/2023
+- **Data:** 09/09/2023
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
@@ -66,7 +66,50 @@ Após a conclusão de todos os brainstormings em duplas, realizamos uma reunião
 <summary>Clique para exibir a figura do brainstorming da Dupla 1</summary>
 
 ![Brainstorm_Dupla_1](../../Assets/Brainstorm_Dupla1.jpg)
+</details>
 
+#### Brainstorming da Dupla 2
+- **Data:** 09/09/2023
+- **Membros da Dupla:** Felipe Candido Moura e André Corrêa
+- **Ferramentas Utilizadas:** Miro e Discord
+
+<details>
+<summary>Clique para exibir a figura do brainstorming da Dupla 2</summary>
+
+![Brainstorm_Dupla_2](../../Assets/Brainstorm_Dupla_2.png)
+</details>
+
+#### Brainstorming da Dupla 3
+- **Data:** 09/09/2023
+- **Membros da Dupla:** Eduardo Schuindt e Pedro Lucas
+- **Ferramentas Utilizadas:** Google Docs e Discord
+
+<details>
+<summary>Clique para exibir a figura do brainstorming da Dupla 3</summary>
+
+![Brainstorm_Dupla_3](../../Assets/Brainstorm_Dupla_3.png)
+</details>
+
+#### Brainstorming da Dupla 4
+- **Data:** 09/09/2023
+- **Membros da Dupla:** Diógenes Júnior e Guilherme Kishimoto
+- **Ferramentas Utilizadas:** Obisidian e Discord
+
+<details>
+<summary>Clique para exibir a figura do brainstorming da Dupla 4</summary>
+
+![Brainstorm_Dupla_4](../../Assets/Brainstorm_Dupla_4.png)
+</details>
+
+#### Brainstorming da Dupla 5
+- **Data:** 09/09/2023
+- **Membros da Dupla:** Arthur Taylor e Thiago Oliveira
+- **Ferramentas Utilizadas:** Bloco de Notas e Discord
+
+<details>
+<summary>Clique para exibir a figura do brainstorming da Dupla 5</summary>
+
+![Brainstorm_Dupla_5](../../Assets/Brainstorm_Dupla_5.png)
 </details>
 
 ### Sketch (09/09 ao 12/09)
@@ -84,16 +127,14 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [5W2H](Base/Artefatos/5W2H.md)
+> <a id="FTF1Ref" href="#FTF1"></a> [5W2H](Base/Artefatos/5W2H.md).
 
 #### Mapa Mental
 - **Data:** 11/09/2023
 - **Membros da Dupla:** Arthur Taylor e Thiago Oliveira
 - **Ferramentas Utilizadas:** Miro e Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [Mapa Mental](Base/Artefatos/mapa-mental.md)
+> <a id="FTF1Ref" href="#FTF1"></a> [Mapa Mental](Base/Artefatos/mapa-mental.md).
 
 #### Causa Efeito
 - **Data:** 08/09/2023
@@ -103,6 +144,7 @@ Nesta etapa, desenvolvemos artefatos com base nos insights obtidos no Brainstorm
 !!! info "Clique sobre o nome para acessar o artefato"
     #### [Causa Efeito](definicao_tema/rich_picture.md)
 
+> <a id="FTF1Ref" href="#FTF1"></a> [Causa Efeito](Base/Artefatos/DiagramaIshikawa.md).
 
 ### Decision (12/09)
 Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefatos gerados durante a fase de Sketch. A equipe se reuniu para tomar uma decisão sobre como avançar para o desenvolvimento do protótipo. O artefato principal criado nesta etapa é a 'Ata da Reunião de Decisão'. A seguir está o link para o artefato:
@@ -111,8 +153,7 @@ Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefat
 - **Membros** Todos os membros do grupo
 - **Ferramentas Utilizadas:** Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md)
+> <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 ### Prototype (12/09 ao 14/09)
 Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de baixa fidelidade, o qual foi utilizado para auxiliar na montagem do protótipo de alta fidelidade, e um de alta fidelidade, que nos garante avaliar, na fase futura, nossos insights elicitados nas fases anteriores de maneira abrangente e iterativa. Através desse protótipo, podemos visualizar as funcionalidades, a usabilidade e a experiência do usuário, garantindo que nossos conceitos sejam traduzidos com precisão em um produto de software bem projetado. A seguir estão os nossos protótipos:
@@ -122,16 +163,14 @@ Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de bai
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [Protótipo de Baixa Fidelidade](definicao_tema/rich_picture.md)
+> <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 #### Protótipo de Alta Fidelidade
 - **Data:** 08/09/2023
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [Protótipo de Alta Fidelidade](definicao_tema/rich_picture.md)
+> <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 ### Test
 Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar nossos insights e a solução concebida durante as fases anteriores atrevés de um questionário. Essa fase é essencial para garantir que nossa solução de arquitetura e desenho de software atenda efetivamente aos requisitos e expectativas do usuário final antes de seguir para as próximas etapas do desenvolvimento. A seguir está o artefato do questionário utilizado para a validação:
@@ -141,8 +180,7 @@ Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar n
 - **Membros da Dupla:** Gabriel Mariano e Lorenzo Santos
 - **Ferramentas Utilizadas:** Miro e Discord
 
-!!! info "Clique sobre o nome para acessar o artefato"
-    #### [Questionário](definicao_tema/rich_picture.md)
+> <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
 ## Referências Bibliográficas
 **EXEMPLO DE REFERENCIA BIBLIOGRAFICA**
