@@ -34,15 +34,28 @@ Após a realização das telas do prototipo de baixa fidelidade, foi feito uma d
 fidelidade,  para assim juntar ideias ou até isolar uma ideia de uma das telas feitas e realizar o prototipo de alta fidelidade.
 
 ## Telas Prototipo de Baixa Fidelidade
-<!-- <img src= "" width = "20%" height = "20%"> -->
+<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/AvaliacaoDoProdutoBaixa.jpg">
 
-## Telas Prototipo de Alta Fidelidade
+*Figura 1: Tela de Avaliação do Produto*
 
+<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/AvalicaoDoProdutoBaixaV2.jpg">
+
+*Figura 2: Tela de Avaliação do Produto V.2*
+
+<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/TrocaDePontosBaixa.jpg">
+
+*Figura 3: Tela de Troca de Pontos*
+
+<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/TrocaDePontosBaixaV2.jpg">
+
+*Figura 4: Tela de Troca de Pontos V.2*
+
+<img src= "https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/VisualizarAvaliacaoBaixa.jpg">
+
+*Figura 5: Tela de Visualizar Avaliações*
+
+[*Figura 6: Tela de Visualizar Avaliações V.2*](https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/blob/doc/prototipacao/docs/Assets/Telas%20Prototipos/BaixaFidelidade/VerAvaliacaoBaixaV2.pdf)
 
 ## Referências Bibliográficas
 
 **SERRANO, Milene.** "AULA - PROJETO E DESENHO DE SOFTWARE". Material disponibilizado pela docente em ambiente virtual. Acesso em 10 set. 2023.
-
-**Sebrae Santa Catarina**. "*5W2H*: o que é, para que serve e por que usar na sua empresa". Disponível em: <https://www.sebrae-sc.com.br/blog/5w2h-o-que-e-para-que-serve-e-por-que-usar-na-sua-empresa>. Acesso em 10 set. 2023.
-
-**A Monitoria**. "*5W2H* - Definição de temas". Disponível em: <https://2019-2-arquitetura-desenho.github.io/wiki/dinamica_seminario_I/definicao_tema/5W2H/>. Acesso em 10 set. 2023.
