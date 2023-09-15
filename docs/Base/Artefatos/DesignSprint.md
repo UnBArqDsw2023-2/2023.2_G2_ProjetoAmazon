@@ -11,7 +11,7 @@
 | 0.4 | 12/09/2023 | Adição de Hiperlinks em alguns artefatos produzidos pelo grupo e imagem do Brainstorm dupla 1 | Diógenes e Guilherme |
 | 0.5 | 14/09/2023 | Adição do roteiro da entrevista | André C. |
 | 0.6 | 14/09/2023 | Quickfixes | André C. |
-
+| 0.7 | 15/09/2023 | Adicionado prototipo | André C. |
 *Tabela 1: Versionamento*
 
 </center>
@@ -156,6 +156,8 @@ Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefat
 
 ### Prototype (12/09 ao 14/09)
 Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de baixa fidelidade, o qual foi utilizado para auxiliar na montagem do protótipo de alta fidelidade, e um de alta fidelidade, que nos garante avaliar, na fase futura, nossos insights elicitados nas fases anteriores de maneira abrangente e iterativa. Através desse protótipo, podemos visualizar as funcionalidades, a usabilidade e a experiência do usuário, garantindo que nossos conceitos sejam traduzidos com precisão em um produto de software bem projetado. A seguir estão os nossos protótipos:
+
+> <a id="FTF1Ref" href="#FTF1"></a> [Causa Efeito](Base/Artefatos/Prototipacao.md).
 
 #### Protótipo de Baixa Fidelidade
 - **Data:** 08/09/2023
