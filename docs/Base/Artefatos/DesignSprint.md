@@ -157,19 +157,19 @@ Nesta fase, realizamos uma reunião de equipe para discutir e avaliar os artefat
 ### Prototype (12/09 ao 14/09)
 Durante esta fase, nossa equipe criou dois tipos de protótipos, sendo um de baixa fidelidade, o qual foi utilizado para auxiliar na montagem do protótipo de alta fidelidade, e um de alta fidelidade, que nos garante avaliar, na fase futura, nossos insights elicitados nas fases anteriores de maneira abrangente e iterativa. Através desse protótipo, podemos visualizar as funcionalidades, a usabilidade e a experiência do usuário, garantindo que nossos conceitos sejam traduzidos com precisão em um produto de software bem projetado. A seguir estão os nossos protótipos:
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Causa Efeito](Base/Artefatos/Prototipacao.md).
+> <a id="FTF1Ref" href="#FTF1"></a> [Prototipacção](Base/Artefatos/Prototipacao.md).
 
 #### Protótipo de Baixa Fidelidade
-- **Data:** 08/09/2023
+- **Data:** 13/09/2023
 - **Membros da Dupla:** Subequipe (conforme ata de reunião)
-- **Ferramentas Utilizadas:** Miro e Discord
+- **Ferramentas Utilizadas:** Discord, Papel e Caneta
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
+> <a id="FTF1Ref" href="#FTF1"></a> [Prototipo de Baixa Fidelidade](Base/Artefatos/Prototipacao.md?id=telas-prototipo-de-baixa-fidelidade).
 
 #### Protótipo de Alta Fidelidade
-- **Data:** 08/09/2023
+- **Data:** 14/09/2023
 - **Membros da Dupla:** Subequipe (conforme ata de reunião)
-- **Ferramentas Utilizadas:** Miro e Discord
+- **Ferramentas Utilizadas:** Discord e Figma
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Ata da Reunião de Decisão](Atas/Reuniao_12-09-23.md).
 
@@ -178,11 +178,10 @@ Nesta etapa final do nosso design sprint adaptado, temos o objetivo de validar n
 
 #### Entrevista
 - **Data:** 12/09/2023
-- **Membros da Dupla:** André Corrêa e Gabriel Mariano
+- **Membros da Dupla:** André Corrêa, Gabriel Mariano, Diógenes Júnior e Felipe Moura
 - **Ferramentas Utilizadas:** Google docs e Discord
 
-> <a id="FTF1Ref" href="#FTF1"></a> [Roteiro da entrevista](Base/Artefatos/entrevistas/roteiro.pdf).
-
+> <a id="FTF1Ref" href="#FTF1"></a> [Validacao_Entrevista](Base/Artefatos/Validacao_Entrevista.md).
 
 ## Referências Bibliográficas
 > <a id="FTF1Ref" href="#FTF1">1.</a> [Aprender Arquitetura e Desenho de Software – Começando Professor(a): Milene Serrano](https://aprender3.unb.br/course/view.php?id=19535&section=1). Acessado em: 09 de setembro de 2023.

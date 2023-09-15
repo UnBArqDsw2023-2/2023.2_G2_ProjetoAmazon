@@ -60,6 +60,17 @@ fidelidade,  para assim juntar ideias ou até isolar uma ideia de uma das telas 
 
 *Figura 6: Tela de Visualizar Avaliações V.2* -->
 
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+
+<div> <embed src="Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2.pdf" width="790px" height="1000px" />
+</div>
+
+</body>
+</html>
+
 ## Referências Bibliográficas
 
 **SERRANO, Milene.** "AULA - PROJETO E DESENHO DE SOFTWARE". Material disponibilizado pela docente em ambiente virtual. Acesso em 10 set. 2023.
