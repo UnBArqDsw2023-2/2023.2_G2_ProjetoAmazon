@@ -8,6 +8,8 @@
 | :--: | :--: | :--: | :--: |
 | 0.1 | 14/09/2023 | Criação do documento | Thiago Oliveira |
 | 0.2 | 15/09/2023 | Adição dos Protótipos de Alta Fidelidade | André Corrêa e Gabriel Mariano |
+| 0.3 | 15/09/2023 | Correção de imagens | André Corrêa e Gabriel Mariano |
+| 0.4 | 15/09/2023 | Correção de links | André Corrêa e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -24,7 +26,7 @@ Dito isto, este documento tem como objetivo apresentar os prototipos, tanto de b
 ### Escolha das telas
 
 Primeiramente para a realização do prototipo de baixa e de alta fidelidade, foi feita uma reunião para sintetizar a parte da amazon designada para estudo do grupo e as funcionalidades extras idealizadas, e a partir disso escolher as telas mais
-importantes e impactantes para se mostrar, as quais foram: [Tela de visualização de Avaliações](), [Tela de Avaliação do Produto]() e [Tela de Troca de Pontos]().
+importantes e impactantes para se mostrar, as quais foram: **Tela de visualização de Avaliações**, **Tela de Avaliação do Produto** e **Tela de Troca de Pontos**.
 
 ### Prototipo de Baixa Fidelidade
 
@@ -58,18 +60,29 @@ fidelidade,  para assim juntar ideias ou até isolar uma ideia de uma das telas 
 
 *Figura 5: Tela de Visualizar Avaliações*
 
-<!DOCTYPE html>
-<html lang="en">
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2_page-0001.jpg)
 
-<body>
+*Figura 6: Tela de Visualizar Avaliações V.2 pagina 1*
 
-<div> <embed src="../../Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2.pdf" width="800px" height="1000px" />
-</div>
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2_page-0002.jpg)
 
-</body>
-</html>
+*Figura 7: Tela de Visualizar Avaliações V.2 pagina 2*
 
-*Figura 6: Tela de Visualizar Avaliações V.2*
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2_page-0003.jpg)
+
+*Figura 8: Tela de Visualizar Avaliações V.2 pagina 3*
+
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2_page-0004.jpg)
+
+*Figura 9: Tela de Visualizar Avaliações V.2 pagina 4*
+
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2_page-0005.jpg)
+
+*Figura 10: Tela de Visualizar Avaliações V.2 pagina 5*
+
+![5W2H - Primeira Aplicação](../../Assets/TelasPrototipos/BaixaFidelidade/VerAvaliacaoBaixaV2_page-0006.jpg)
+
+*Figura 11: Tela de Visualizar Avaliações V.2 pagina 6*
 
 ## Telas Prototipo de Alta Fidelidade
 
@@ -77,25 +90,25 @@ fidelidade,  para assim juntar ideias ou até isolar uma ideia de uma das telas 
 
 ![Ver Avaliações](../../Assets/TelasPrototipos/AltaFidelidade/ver_avaliacoes.jpg)
 
-*Figura 7: Tela de Visualização de Avaliações*
+*Figura 12: Tela de Visualização de Avaliações*
 
 ### Protótipo de Implementação dos Filtros
 
 ![Ver Filtros](../../Assets/TelasPrototipos/AltaFidelidade/filtros.jpg)
 
-*Figura 8: Tela de Implementação dos filtros*
+*Figura 13: Tela de Implementação dos filtros*
 
 ### Protótipo de Troca de Pontos
 
 ![Troca de Pontos](../../Assets/TelasPrototipos/AltaFidelidade/troca_pontos.jpg)
 
-*Figura 9: Tela de Troca de Pontos*
+*Figura 14: Tela de Troca de Pontos*
 
 ### Protótipo de Criação de Avaliações
 
 ![Criar Avaliações](../../Assets/TelasPrototipos/AltaFidelidade/criar_avaliacoes.jpg)
 
-*Figura 10: Tela de Visualização de Avaliações*
+*Figura 15: Tela de Visualização de Avaliações*
 
 ### Visualização do Protótipo do Figma
 
@@ -110,7 +123,7 @@ fidelidade,  para assim juntar ideias ou até isolar uma ideia de uma das telas 
 </body>
 </html>
 
-*Figura 11: Protótipo no Figma*
+*Figura 16: Protótipo no Figma*
 
 ## Referências Bibliográficas
 
