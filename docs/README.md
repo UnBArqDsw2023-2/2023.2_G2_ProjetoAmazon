@@ -43,7 +43,7 @@ Demais diretrizes constam no Moodle.
 O presente projeto visa aprofundar os conhecimentos em **Arquitetura e Desenho de Software** por parte dos integrantes do grupo a partir do estudo e decorrente aplicação de metodologias e ferramentas sobre os **fluxos de avaliação de produtos** da plataforma [**Amazon**](https://www.amazon.com.br/), com enfoque nos pontos de vista do comprador e da plataforma.
 
 O projeto será inicialmente dividido em quatro etapas: 
-- [1. Desenho de Software (Base)](./Base/1.Base.md)
+- 1. [Desenho de Software (Base)](./Base/1.Base.md)
 - 2. Desenho de Software (Modelagem)
 - 3. Desenho de Software (Padrões de Projeto)
 - 4. Desenho de Software (Arquitetura & Reutilização de Software)
