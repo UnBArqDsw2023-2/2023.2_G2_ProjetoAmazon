@@ -66,19 +66,19 @@ Abaixo, temos todas as quatro entrevistas realizadas pela equipe com terceiros (
 </body>
 </html>
 
-*Figura 2: Segunda Entrevista*
+*Figura 3: Segunda Entrevista*
 
 ### Terceira Entrevista
 
 ![Terceira Entrevista](./entrevistas/entrevista3.jpeg)
 
-*Figura 2: Terceira Entrevista*
+*Figura 4: Terceira Entrevista*
 
 ### Quarta Entrevista
 
 ![Quarta Entrevista](./entrevistas/entrevista4.jpeg)
 
-*Figura 2: Quarta Entrevista*
+*Figura 5: Quarta Entrevista*
 
 ## Conclusão
 

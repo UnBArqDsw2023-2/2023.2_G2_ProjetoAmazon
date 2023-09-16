@@ -9,7 +9,7 @@
 | 0.1 | 14/09/2023 | Criação do documento | Thiago Oliveira |
 | 0.2 | 15/09/2023 | Adição dos Protótipos de Alta Fidelidade | André Corrêa e Gabriel Mariano |
 | 0.3 | 15/09/2023 | Correção de imagens | André Corrêa e Gabriel Mariano |
-
+| 0.4 | 15/09/2023 | Correção de links | André Corrêa e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -26,7 +26,7 @@ Dito isto, este documento tem como objetivo apresentar os prototipos, tanto de b
 ### Escolha das telas
 
 Primeiramente para a realização do prototipo de baixa e de alta fidelidade, foi feita uma reunião para sintetizar a parte da amazon designada para estudo do grupo e as funcionalidades extras idealizadas, e a partir disso escolher as telas mais
-importantes e impactantes para se mostrar, as quais foram: [Tela de visualização de Avaliações](), [Tela de Avaliação do Produto]() e [Tela de Troca de Pontos]().
+importantes e impactantes para se mostrar, as quais foram: **Tela de visualização de Avaliações**, **Tela de Avaliação do Produto** e **Tela de Troca de Pontos**.
 
 ### Prototipo de Baixa Fidelidade
 
