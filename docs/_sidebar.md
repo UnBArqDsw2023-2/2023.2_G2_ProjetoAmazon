@@ -15,6 +15,7 @@
   - [1.2. Segunda Reunião](/Atas/Reuniao_09-09-23.md)
   - [1.3. Terceira Reunião](/Atas/Reuniao_12-09-23.md)
   - [1.4. Quarta Reunião](/Atas/Reuniao_14-09-23.md)
+  - [1.5. Quinta Reunião](/Atas/Reuniao_03-10-23.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
@@ -28,7 +29,7 @@
         - [Validação](/Base/Artefatos/Validacao_Entrevista.md)
     - [1.2. Módulo Processos/Metodologias/Abordagens](/Base/1.2.ProcessosMetodologiasAbordagens.md)
     - [1.3. Participações - Base](/Base/1.3.ParticipacoesBase.md)
-<!--
+
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/Modelagem/2.1.ModelagemTradicional.md)
@@ -36,6 +37,7 @@
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
     - [2.2. Participações - Modelagem](/Modelagem/2.2.ParticipacoesModelagem.md)
 
+<!--
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [Avaliado via Prova]
