@@ -7,6 +7,7 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 07/10/2023 | Criação do documento e definição do teamplate dos artefatos | Diógenes e Guilherme |
+| 0.2 | 07/10/2023 | Adição da Introdução, Metodologias e a imagem do Diagrama de Pacotes | Diógenes Júnior e Guilherme |
 
 *Tabela 1: Versionamento*
 
@@ -33,9 +34,33 @@ O artefato foi criado por dois membros do grupo durante reuniões, tanto presenc
 
 *Tabela 2: Ambiente de criação do artefato Diagrama de Pacotes*
 
+![Diagrama-de-Pacote](../../../Assets/Modelagem/Diagrama_de_Pacotes.png)
 
+*Figura 1: Diagrama de Pacotes*
 
+## Estrutura
 
+O diagrama foi estrutura de acordo com cada camada do sistema
+
+### Interface
+
+Corresponde ao modelo da aplicação que irá apresentar os dados e as funcionalidades ao usuário. No caso, a interface corresponde a Front-end do Sistema de Avaliação da Amazon.
+
+### Sistema de Avaliação
+
+Corresponde ao modelo Back-end da aplicação. Basicamente, utiliza uma API para possibilitar a integração entre o frontend e a base de dados.
+
+#### Avaliar e Visualizar
+
+Esses pacotes estão ao um mesmo nível de abstração, pois são duas estruturas que o usuário pode utilizar no sistema. No caso em **Avaliar**, o usuário escreve uma avaliação sobre determinado produto e no caso **Vizualizar**, o usuário apenas obseerva e analisar outras avaliações.
+
+#### Pontuação e Troca
+
+Esses pacotes importam estruturas de **Avaliar**, pois foi proposto pelo grupo uma nova funcionalidade no Sistema de Avaliação da Amazon de recompensar os usuários que avaliam os produtos. Decorrente disso, o pacote **Recompença** aprenseta a **Pontuação** obtida pelos usuários assim como a possibilidade de **Troca** com benefícios ou outros produtos
+
+### Dados
+
+O pacote Dados corresponde ao Data-Base da Aplicação, onde estão armazenados as avaliações, os dados dos usuários e as tabelas modeladas de acordo com o Diagrama de Classes.
 
 ## Referências Bibliográficas
 **EXEMPLO DE REFERENCIA BIBLIOGRAFICA**
