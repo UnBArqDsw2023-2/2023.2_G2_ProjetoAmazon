@@ -11,6 +11,7 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 03/10/2023 | Criação da ata e documentação da reunião | Gabriel, André, Diógenes, Arthur, Felipe, Guilherme, Lorenzo e Pedro |
+| 0.2 | 06/10/2023 | Adição do *Heatmap* de disponibilidade dos integrantes da equipe | André Corrêa e Gabriel Mariano |
 
 *Tabela 2: Versionamento*
 
@@ -74,18 +75,21 @@ Também foi definida a data de documentação das participações: 08/10/23.
 
 ## Observações
 
-O *heatmap* gerado a partir dos horários de disponibilidade dos membros do grupo foi:
+O *heatmap* gerado a partir dos horários de disponibilidade dos membros do grupo é apresentado abaixo. As seções com tonalidade de graduação mais escura representam os momentos de maior disponibilidade dos membros da equipe na semana. Em contraponto, as áreas de maior palidez representam horários de menor disponibilidade dos integrantes.
+
+![Heatmap](../Assets/Gestao/heatmap_disponibilidade.png)
+
+*Figura 1: Heatmap de Disponibilidade dos Membros*
+
+Acima, é notável a maior disponibilidade dos integrantes nas manhãs de terças e quintas, entre os períodos de 08:00 e 10:00, de modo que estes períodos serão priorizados para a realização de reuniões ao longo do projeto.
 
 | **Data** | **Participantes** | **Ferramenta Utilizada** |
 | :--: | :--: | :--: |
 | 03/10/2023 | Todos os membros do grupo | [when2meet](https://www.when2meet.com/) |
 
+
+
 *Tabela 3: Documentação do Heatmap*
-
-![Heatmap]()
-
-*Figura 1: Heatmap de Disponibilidade dos Membros*
-
 
 ## Próxima Reunião
 
