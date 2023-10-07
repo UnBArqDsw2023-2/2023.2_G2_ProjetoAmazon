@@ -46,7 +46,7 @@ O diagrama foi estrutura de acordo com cada camada do sistema
 
 Corresponde ao modelo da aplicação que irá apresentar os dados e as funcionalidades ao usuário. No caso, a interface corresponde a Front-end do Sistema de Avaliação da Amazon.
 
-### Sistema de Avaliação
+## Sistema de Avaliação
 
 Corresponde ao modelo Back-end da aplicação. Basicamente, utiliza uma API para possibilitar a integração entre o frontend e a base de dados.
 
@@ -58,7 +58,7 @@ Esses pacotes estão ao um mesmo nível de abstração, pois são duas estrutura
 
 Esses pacotes importam estruturas de **Avaliar**, pois foi proposto pelo grupo uma nova funcionalidade no Sistema de Avaliação da Amazon de recompensar os usuários que avaliam os produtos. Decorrente disso, o pacote **Recompença** aprenseta a **Pontuação** obtida pelos usuários assim como a possibilidade de **Troca** com benefícios ou outros produtos
 
-### Dados
+## Dados
 
 O pacote Dados corresponde ao Data-Base da Aplicação, onde estão armazenados as avaliações, os dados dos usuários e as tabelas modeladas de acordo com o Diagrama de Classes.
 
