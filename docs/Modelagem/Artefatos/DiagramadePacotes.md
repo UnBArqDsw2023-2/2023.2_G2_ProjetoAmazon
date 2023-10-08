@@ -8,6 +8,7 @@
 | :--: | :--: | :--: | :--: |
 | 0.1 | 07/10/2023 | Criação do documento e definição do teamplate dos artefatos | Diógenes e Guilherme |
 | 0.2 | 07/10/2023 | Adição da Introdução, Metodologias e a imagem do Diagrama de Pacotes | Diógenes Júnior e Guilherme |
+| 0.3 | 08/10/2023 | Correção de alguns detalhe da documentação do artefato | Diógenes Júnior e Guilherme |
 
 *Tabela 1: Versionamento*
 
@@ -28,15 +29,19 @@ Um diagrama de pacotes é comumente usado para organizar os elementos de um sist
 
 O artefato foi criado por dois membros do grupo durante reuniões, tanto presenciais quanto virtuais. Eles usaram conteúdos do ambiente de aprendizado e realizaram pesquisas como referência para desenvolver o diagrama de pacotes.
 
+<center>
+
 | **Data e Horário** | **Ferramentas Utilizadas** | **Autores** |
 | :--: | :--: | :--: |
 | 06/10/2023 às 18:00 | Aplicativo de diagramação baseado na web (LucidChart) e Aplicativos de Chamadas (Discord) | Diógenes Júnior e Guilherme |
 
 *Tabela 2: Ambiente de criação do artefato Diagrama de Pacotes*
 
-![Diagrama-de-Pacote](../../../Assets/Modelagem/Diagrama_de_Pacotes.png)
+![Diagrama-de-Pacote](../../Assets/Modelagem/Diagrama_de_Pacotes.png)
 
 *Figura 1: Diagrama de Pacotes*
+
+</center>
 
 ## Estrutura
 
@@ -63,7 +68,6 @@ Esses pacotes importam estruturas de **Avaliar**, pois foi proposto pelo grupo u
 O pacote Dados corresponde ao Data-Base da Aplicação, onde estão armazenados as avaliações, os dados dos usuários e as tabelas modeladas de acordo com o Diagrama de Classes.
 
 ## Referências Bibliográficas
-**EXEMPLO DE REFERENCIA BIBLIOGRAFICA**
 > <a id="FTF1Ref" href="#FTF1">1.</a> [Aprender Arquitetura e Desenho de Software – Começando Professor(a): Milene Serrano](https://aprender3.unb.br/course/view.php?id=19535&section=1). Acessado em: 06 de outubro de 2023.
 
 > <a id="FTF1Ref" href="#FTF1">1.</a> [GitMind](https://gitmind.com/pt/diagrama-de-pacotes.html). Acessado em: 07 de outubro de 2023.
