@@ -1,12 +1,13 @@
-# Diagrama de Classe
+# Diagrama de Componentes
 
 ## Versionamento
 
 <center>
 
 | **Versão** |  **Data**  |                     **Modificações**                     |                **Autor(es)**                |
-| :--------: | :--------: | :------------------------------------------------------: | :-----------------------------------------: |
+| :--: | :--: | :--: | :--: |
 |    0.1     | 07/10/2023 | Criação do documento e adição do diagrama de componentes | Pedro Lucas, Eduardo Santos e Lorenzo Alves |
+|    0.2     | 08/10/2023 | Revisão do artefato: correção de pequenos erros | André Corrêa, Felipe Moura e Gabriel Mariano |
 
 _Tabela 1: Versionamento_
 
@@ -14,7 +15,7 @@ _Tabela 1: Versionamento_
 
 ## Introdução
 
-O diagrama de componentes da UML é uma representação visual que ilustra como as classes devem estar organizadas por meio da noção de componentes de trabalho. Esse diagrama é uma ferramenta poderosa para visualizar a arquitetura de um sistema, mostrando como os diferentes componentes (que podem ser classes, módulos, pacotes ou até mesmo sistemas inteiros) interagem e se relacionam. Ele ajuda a entender a estrutura geral do sistema e como suas partes se encaixam para realizar as funcionalidades desejadas.
+O diagrama de componentes da *UML* é uma representação visual que ilustra como as classes devem estar organizadas por meio da noção de componentes de trabalho. Esse diagrama é uma ferramenta poderosa para visualizar a arquitetura de um sistema, mostrando como os diferentes componentes (que podem ser classes, módulos, pacotes ou até mesmo sistemas inteiros) interagem e se relacionam. Ele ajuda a entender a estrutura geral do sistema e como suas partes se encaixam para realizar as funcionalidades desejadas.
 
 ## Metodologia
 
@@ -34,7 +35,7 @@ _Tabela 2: Documentação do Diagrama de Componentes_
 
 _Figura 1: Diagrama de componentes_
 
-A figura acima ilustra o comportamento dos componentes e suas respectivas dependências. Um exemplo disso é a relação entre o cliente, as avaliações e os pontos que podem ser utilizados na página de troca para adquirir novos pedidos. Esses elementos são representados como componentes distintos que possuem uma certa interdependên
+A figura acima ilustra o comportamento dos componentes e suas respectivas dependências. Um exemplo disso é a relação entre o cliente, as avaliações e os pontos que podem ser utilizados na página de troca para adquirir novos pedidos. Esses elementos são representados como componentes distintos que possuem uma certa interdependência.
 
 ## Referências Bibliográficas
 
