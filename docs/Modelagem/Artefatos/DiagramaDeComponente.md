@@ -4,14 +4,13 @@
 
 <center>
 
-| **Versão** | **Data** | **Modificações** | **Autor(es)** |
-| :--: | :--: | :--: | :--: |
-| 0.1 | 07/10/2023 | Criação do documento e adição do diagrama de componentes | Pedro Lucas, Eduardo Santos e Lorenzo Alves |
+| **Versão** |  **Data**  |                     **Modificações**                     |                **Autor(es)**                |
+| :--------: | :--------: | :------------------------------------------------------: | :-----------------------------------------: |
+|    0.1     | 07/10/2023 | Criação do documento e adição do diagrama de componentes | Pedro Lucas, Eduardo Santos e Lorenzo Alves |
 
-*Tabela 1: Versionamento*
+_Tabela 1: Versionamento_
 
 </center>
-
 
 ## Introdução
 
@@ -23,17 +22,17 @@ O documento foi iniciado e desenvolvido por três membros do grupo durante duas 
 
 <center>
 
-| **Data** | **Participantes** | **Ferramenta Utilizada** |
-| :--: | :--: | :--: |
-| 06/10/2023 | Pedro Lucas, Eduardo Santos e Lorenzo Alves | [*Draw.io*](https://app.diagrams.net) |
+|  **Data**  |              **Participantes**              |       **Ferramenta Utilizada**        |
+| :--------: | :-----------------------------------------: | :-----------------------------------: |
+| 06/10/2023 | Pedro Lucas, Eduardo Santos e Lorenzo Alves | [_Draw.io_](https://app.diagrams.net) |
 
-*Tabela 2: Documentação do Diagrama de Componentes*
+_Tabela 2: Documentação do Diagrama de Componentes_
 
 </center>
 
 ![Diagrama de Componentes](../../Assets/DiagComponentes.jpg)
 
-*Figura 1: Diagrama de componentes*
+_Figura 1: Diagrama de componentes_
 
 A figura acima ilustra o comportamento dos componentes e suas respectivas dependências. Um exemplo disso é a relação entre o cliente, as avaliações e os pontos que podem ser utilizados na página de troca para adquirir novos pedidos. Esses elementos são representados como componentes distintos que possuem uma certa interdependên
 
