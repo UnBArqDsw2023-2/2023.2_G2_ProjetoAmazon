@@ -7,6 +7,8 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 07/10/2023 | Criação do documento e adição de diagrama de sequências | André Corrêa e Gabriel Mariano |
+| 0.2 | 08/10/2023 | Adição diagrama de sequência | Felipe Moura |
+
 
 *Tabela 1: Versionamento*
 
@@ -41,8 +43,27 @@ Seguindo o material de consulta (apresentado nas referências bibliográficas), 
 
 No diagrama acima, podem ser observados três focos de ocorrências de sequências: a representação simplificada do fluxo de compras (haja vista que o fluxo de compras é abordado de maneira mais aprofundada por outras equipes), o fluxo de criação de avaliações e o fluxo de interação com avaliações de terceiros.
 
+
+<center>
+
+| **Data** | **Participantes** | **Ferramenta Utilizada** |
+| :--: | :--: | :--: |
+| 08/10/2023 | Felipe Moura | [*Miro*](https://miro.com/app/dashboard/) |
+
+*Tabela 3: Documentação do Diagrama de Sequências da Troca de Pontos*
+
+</center>
+
+![Diagrama de Sequências - Fluxo de Troca de Pontos](../../../Assets/Modelagem/DiagramaSequenciaTrocaPontos.jpg)
+
+*Figura 2: Diagrama de Sequências - Fluxo de Troca de Pontos*
+
+Foi feito também, seguindo os moldes usados na Figura 1, um diagrama de sequência (Figura 2) que visa detalhar o uso do sistema de troca de pontos mais detalhadamente.
+
 ## Referências Bibliográficas
 
 **Milene Serrano**. "AULA - MODELAGEM UML DINÂMICA". Disponibilizado em ambiente virtual pela docente. Acesso em 06 out 2023.
 
 **Kirill Fakhroutdinov**. "UML Sequence Diagrams". Disponível em: <https://www.uml-diagrams.org/sequence-diagrams.html>. Acesso em 06 out 2023.
+
+**Creately**. "Tutorial do Diagrama de Sequência: Guia completo com exemplos". Diponível em: <https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-sequencia/>. Acesso em 08 out 2023.
