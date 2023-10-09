@@ -1,4 +1,4 @@
-# Diagrama de Atividade
+# Diagrama de Atividades
 
 
 ## Versionamento
@@ -9,6 +9,8 @@
 | 0.1 | 08/10/2023 | Criação do documento e definição do teamplate dos artefatos | Diógenes Júnior e Guilherme |
 | 0.2 | 08/10/2023 | Adição de Introdução, Metologia e Imagem do Diagrama de Atividade | Diógenes Júnior e Guilherme |
 | 0.3 | 08/10/2023 | Descrição dos componentes do Diagrama de Atividade |  Diógenes Júnior e Guilherme |
+| 0.4 | 09/10/2023 | Adição da versão 2 do Diagrama de Atividades | Diógenes Júnior e Guilherme |
+
 
 *Tabela 1: Versionamento*
 
@@ -29,13 +31,17 @@ Um diagrama de atividade pode ser usado com diferentes propósitos inclusive:
 
 O artefato foi criado por dois membros do grupo durante reuniões, tanto presenciais quanto virtuais. Eles usaram conteúdos do ambiente Aprender e realizaram pesquisas como referência para desenvolver o diagrama de atividade.
 
+## Primeira Versão 
+
 <center>
 
 | **Data e Horário** | **Ferramentas Utilizadas** | **Autores** |
 | :--: | :--: | :--: |
 | 06/10/2023 às 20:00 | Aplicativo de diagramação baseado na web (LucidChart) e Aplicativos de Chamadas (Discord) | Diógenes Júnior e Guilherme |
 
-*Tabela 2: Ambiente de criação do artefato Diagrama de Atividade*
+*Tabela 2: Ambiente de criação do artefato Diagrama de Atividade Primeira Versão*
+
+Versão 1 - Diagrama de Atividades
 
 ![Diagrama-de-Pacote](../../../Assets/Modelagem/Diagrama_de_atividade.png)
 
@@ -61,7 +67,7 @@ Descreve a sequência na qual as atividades do fluxo de avaliação se realizam.
 
 <center>
 
-![Nó_Inicial](../../../Assets/Modelagem/fluxo.png)
+![Fluxo](../../../Assets/Modelagem/fluxo.png)
 
 *Figura 3: Fluxo*
 
@@ -152,6 +158,23 @@ Ponto onde termina a atividade modelada
 *Figura 10: Nó Final*
 </center>
 
+## Segunda Versão
+
+<center>
+
+| **Data e Horário** | **Ferramentas Utilizadas** | **Autores** |
+| :--: | :--: | :--: |
+| 09/10/2023 às 12:00 | Aplicativo de diagramação baseado na web (LucidChart) e Aplicativos de Chamadas (Discord) | Diógenes Júnior e Guilherme |
+
+*Tabela 3: Ambiente de criação do artefato Diagrama de Atividade Segunda Versão*
+
+![Diagrama-de-Pacote](../../../Assets/Modelagem/Diagrama_de_atividade_v2.png)
+
+*Figura 11: Diagrama de Atividade Segunda Versão*
+
+</center>
+
+Na segunda versão do Diagrama de Atividades, a estrutura base do fluxos permaneceu a mesma da primeira versão. As diferenças na estrutura do diagrama estão relacionadas as piscinas que dividem as ações e os fluxos do diagrama em Avaliação, Sistema e Recompensa. Além disso, foram adicindos aos losangos de decisão perguntas que representam qual decisão o usuário deve tomar e o resultado (sim ou não) representando qual fluxo o sistema segue após a tomada de decisão.
 
 ## Referências Bibliográficas
 > <a id="FTF1Ref" href="#FTF1">1.</a> [Aprender Arquitetura e Desenho de Software – Começando Professor(a): Milene Serrano](https://aprender3.unb.br/course/view.php?id=19535&section=1). Acessado em: 08 de outubro de 2023.
