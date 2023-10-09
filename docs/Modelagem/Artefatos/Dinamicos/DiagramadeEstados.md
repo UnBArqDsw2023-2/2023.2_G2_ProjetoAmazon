@@ -33,7 +33,7 @@ Seguindo o material de consulta (apresentado nas referências bibliográficas), 
 
 </center>
 
-![Diagrama de Estados ](../../Assets/Modelagem/DiagramaDeEstados.jpeg)
+![Diagrama de Estados ](../../../Assets/Modelagem/DiagramaDeEstados.jpeg)
 
 *Figura 1: Diagrama de Estados - Fluxo de Avaliação de Produtos*
 
