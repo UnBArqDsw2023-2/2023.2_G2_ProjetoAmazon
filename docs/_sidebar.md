@@ -34,7 +34,7 @@
   - [2. Desenho de Software (Modelagem)](/Modelagem/2.Modelagem.md)
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](/Modelagem/2.1.1.UMLEstaticos.md)
-        - [2.1.1.3. Diagrama de Componentes](/Modelagem/Artefatos/DiagramaDeComponente.md)
+        - [2.1.1.3. Diagrama de Componentes](/Modelagem/Artefatos/Estaticos/DiagramaDeComponente.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
         - [2.1.2.1. Diagrama de Sequência](/Modelagem/Artefatos/Dinamicos/DiagramaDeSequencia.md)
         - [2.1.2.2. Diagrama de Atividades](/Modelagem/Artefatos/Dinamicos/DiagramdeAtividades.md)
