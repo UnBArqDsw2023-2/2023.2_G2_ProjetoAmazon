@@ -33,11 +33,11 @@ Seguindo o material de consulta (apresentado nas referências bibliográficas), 
 
 </center>
 
-![ Diagrama de Classes ](../../Assets/Diagrama-de-Classe.jpeg)
+![ Diagrama de Classes ](../../../Assets/Modelagem/Diagrama-de-Classe.jpeg)
 
 *Figura 1: Diagrama de classes V1.0*
 
-![ Diagrama de Classes ](../../Assets/Diagrama-de-Classe-V2.png)
+![ Diagrama de Classes ](../../../Assets/Modelagem/Diagrama-de-Classe-V2.png)
 
 *Figura 2: Diagrama de classes V2.0*
 
