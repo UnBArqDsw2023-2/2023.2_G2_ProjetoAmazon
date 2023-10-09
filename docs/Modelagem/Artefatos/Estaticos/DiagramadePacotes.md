@@ -32,17 +32,35 @@ Um diagrama de pacotes é comumente usado para organizar os elementos de um sist
 
 O artefato foi criado por dois membros do grupo durante reuniões, tanto presenciais quanto virtuais. Eles usaram conteúdos do ambiente de aprendizado e realizaram pesquisas como referência para desenvolver o diagrama de pacotes.
 
+## Primeira Versão
+
 <center>
 
 | **Data e Horário** | **Ferramentas Utilizadas** | **Autores** |
 | :--: | :--: | :--: |
 | 06/10/2023 às 18:00 | Aplicativo de diagramação baseado na web (LucidChart) e Aplicativos de Chamadas (Discord) | Diógenes Júnior e Guilherme |
 
-*Tabela 2: Ambiente de criação do artefato Diagrama de Pacotes*
+*Tabela 2: Ambiente de criação do artefato Diagrama de Pacotes Primeira Versão*
 
-![Diagrama-de-Pacote](../../Assets/Modelagem/Diagrama_de_pacotes.png)
+![Diagrama-de-Pacote_v1](../../../Assets/Modelagem/Diagrama_de_pacotes_v1.jpg)
 
-*Figura 1: Diagrama de Pacotes*
+*Figura 1: Diagrama de Pacotes Primeira Versão*
+
+</center>
+
+## Segunda Versão
+
+<center>
+
+| **Data e Horário** | **Ferramentas Utilizadas** | **Autores** |
+| :--: | :--: | :--: |
+| 09/10/2023 às 18:00 | Aplicativo de diagramação baseado na web (LucidChart) e Aplicativos de Chamadas (Discord) | Diógenes Júnior e Guilherme |
+
+*Tabela 3: Ambiente de criação do artefato Diagrama de Pacotes Segunda Versão*
+
+![Diagrama-de-Pacote](../../../Assets/Modelagem/Diagrama_de_pacotes.png)
+
+*Figura 2: Diagrama de Pacotes Segunda Versão*
 
 </center>
 
