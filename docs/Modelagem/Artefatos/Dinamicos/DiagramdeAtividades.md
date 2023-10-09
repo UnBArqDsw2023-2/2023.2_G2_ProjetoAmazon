@@ -37,7 +37,7 @@ O artefato foi criado por dois membros do grupo durante reuniões, tanto presenc
 
 *Tabela 2: Ambiente de criação do artefato Diagrama de Atividade*
 
-![Diagrama-de-Pacote](../../Assets/Modelagem/Diagrama_de_atividade.png)
+![Diagrama-de-Pacote](../../../Assets/Modelagem/Diagrama_de_atividade.png)
 
 *Figura 1: Diagrama de Atividade*
 
@@ -49,7 +49,7 @@ Corresponde ao Ponto de Início da Atividade Modelada (nesse caso Fluxo de Avali
 
 <center>
 
-![Nó_Inicial](../../Assets/Modelagem/no_inicial.png)
+![Nó_Inicial](../../../Assets/Modelagem/no_inicial.png)
 
 *Figura 2: Nó Inicial*
 
@@ -61,7 +61,7 @@ Descreve a sequência na qual as atividades do fluxo de avaliação se realizam.
 
 <center>
 
-![Nó_Inicial](../../Assets/Modelagem/fluxo.png)
+![Nó_Inicial](../../../Assets/Modelagem/fluxo.png)
 
 *Figura 3: Fluxo*
 
@@ -75,7 +75,7 @@ A ação abaixo indica que o usuário pretende executar uma avaliação a respei
 
 <center>
 
-![Acao-Avaliar](../../Assets/Modelagem/Acao_Avaliar.png)
+![Acao-Avaliar](../../../Assets/Modelagem/Acao_Avaliar.png)
 
 *Figura 4: Ação Avaliar*
 
@@ -85,7 +85,7 @@ A ação abaixo indica que o usuário pretende publicar uma avaliação realizad
 
 <center>
 
-![Publicar-Avaliação](../../Assets/Modelagem/Acao_Publicar_Avaliacao.png)
+![Publicar-Avaliação](../../../Assets/Modelagem/Acao_Publicar_Avaliacao.png)
 
 *Figura 5: Ação Publicar Avaliação*
 
@@ -95,7 +95,7 @@ A ação abaixo indica que o usuário pretende trocar os pontos que ele recebeu 
 
 <center>
 
-![Trocar-por-Produto](../../Assets/Modelagem/Acao_trocar_produtos.png)
+![Trocar-por-Produto](../../../Assets/Modelagem/Acao_trocar_produtos.png)
 
 *Figura 6: Ação Trocar Pontos por Produto*
 
@@ -109,7 +109,7 @@ Corresponde a um único fluxo de entrada e vários fluxos de saída. As decisõe
 A imagem abaixo, representa apenas um fluxo de entrada na qual esbarra em uma decisão que determina qual fluxo o usuário vai seguir, seja Avaliar em Modo Usuário ou Avaliar em Modo Anônimo.
 <center>
 
-![Decisao](../../Assets/Modelagem/Decisao.png)
+![Decisao](../../../Assets/Modelagem/Decisao.png)
 
 *Figura 7: Decisão*
 </center>
@@ -123,7 +123,7 @@ A imagem abaixo, representa duas tarefas que podem ser iniciadas em paralelo no 
 
 <center>
 
-![Divergencia](../../Assets/Modelagem/Divergencia.png)
+![Divergencia](../../../Assets/Modelagem/Divergencia.png)
 
 *Figura 8: Divergência*
 </center>
@@ -136,7 +136,7 @@ A imagem abaixo representa uma convergência no Fluxo de Avaliação da Amazon, 
 
 <center>
 
-![Convergencia](../../Assets/Modelagem/Convergencia.png)
+![Convergencia](../../../Assets/Modelagem/Convergencia.png)
 
 *Figura 9: Convergência*
 </center>
@@ -147,7 +147,7 @@ Ponto onde termina a atividade modelada
 
 <center>
 
-![Nó Final](../../Assets/Modelagem/No_Final.png)
+![Nó Final](../../../Assets/Modelagem/No_Final.png)
 
 *Figura 10: Nó Final*
 </center>
