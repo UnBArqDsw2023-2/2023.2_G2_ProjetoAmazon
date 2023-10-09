@@ -10,6 +10,7 @@
 | 0.2 | 08/10/2023 | Adição de Introdução, Metologia e Imagem do Diagrama de Atividade | Diógenes Júnior e Guilherme |
 | 0.3 | 08/10/2023 | Descrição dos componentes do Diagrama de Atividade |  Diógenes Júnior e Guilherme |
 | 0.4 | 09/10/2023 | Adição da versão 2 do Diagrama de Atividades | Diógenes Júnior e Guilherme |
+| 0.5 | 09/10/2023 | Correção de pequenos erros de digitação | Felipe Moura e Gabriel Mariano |
 
 
 *Tabela 1: Versionamento*
@@ -19,7 +20,7 @@
 
 ## Introdução
 
-Diagramas de atividade capturam ações e seus resultados. Eles focam o trabalho executado na implementação de uma operação (método), e suas atividades numa instância de um objeto. O Diagrama de atividade mostra o fluxo sequencial das atividades, é normalmente utilizado para demonstrar as atividades executadas por uma operação específica do sistema. Consistem em estados de ação, que contém a especificação de uma atividade a ser desempenhada por uma operação do sistema. Decisões e condições, como execução paralela, também podem ser mostrados na diagrama de atividade.
+Diagramas de atividade capturam ações e seus resultados. Eles focam o trabalho executado na implementação de uma operação (método), e suas atividades numa instância de um objeto. O Diagrama de atividade mostra o fluxo sequencial das atividades, é normalmente utilizado para demonstrar as atividades executadas por uma operação específica do sistema. Consistem em estados de ação, que contêm a especificação de uma atividade a ser desempenhada por uma operação do sistema. Decisões e condições, como execução paralela, também podem ser mostrados na diagrama de atividade.
 
 Um diagrama de atividade pode ser usado com diferentes propósitos inclusive:
 - Para capturar os trabalhos que serão executados quando uma operação é disparada (ações). Este é o uso mais comum para o diagrama de atividade. 
@@ -29,7 +30,7 @@ Um diagrama de atividade pode ser usado com diferentes propósitos inclusive:
 
 ## Metodologia
 
-O artefato foi criado por dois membros do grupo durante reuniões, tanto presenciais quanto virtuais. Eles usaram conteúdos do ambiente Aprender e realizaram pesquisas como referência para desenvolver o diagrama de atividade.
+O artefato foi criado por dois membros do grupo durante reuniões tanto presenciais quanto virtuais. Eles usaram conteúdos do ambiente Aprender3 e realizaram pesquisas como referência para desenvolver o diagrama de atividade.
 
 ## Primeira Versão 
 
@@ -174,7 +175,7 @@ Ponto onde termina a atividade modelada
 
 </center>
 
-Na segunda versão do Diagrama de Atividades, a estrutura base do fluxos permaneceu a mesma da primeira versão. As diferenças na estrutura do diagrama estão relacionadas as piscinas que dividem as ações e os fluxos do diagrama em Avaliação, Sistema e Recompensa. Além disso, foram adicindos aos losangos de decisão perguntas que representam qual decisão o usuário deve tomar e o resultado (sim ou não) representando qual fluxo o sistema segue após a tomada de decisão.
+Na segunda versão do Diagrama de Atividades, a estrutura base do fluxos permaneceu a mesma da primeira versão. As diferenças na estrutura do diagrama estão relacionadas as piscinas que dividem as ações e os fluxos do diagrama em Avaliação, Sistema e Recompensa. Além disso, foram adicionados aos losangos de decisão perguntas que representam qual decisão o usuário deve tomar e o resultado (sim ou não) representando qual fluxo o sistema segue após a tomada de decisão.
 
 ## Referências Bibliográficas
 > <a id="FTF1Ref" href="#FTF1">1.</a> [Aprender Arquitetura e Desenho de Software – Começando Professor(a): Milene Serrano](https://aprender3.unb.br/course/view.php?id=19535&section=1). Acessado em: 08 de outubro de 2023.
