@@ -39,6 +39,7 @@
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
         - [2.1.2.1. Diagrama de Sequência](/Modelagem/Artefatos/Dinamicos/DiagramaDeSequencia.md)
         - [2.1.2.2. Diagrama de Atividades](/Modelagem/Artefatos/Dinamicos/DiagramdeAtividades.md)
+        - [2.1.2.3. Diagrama de Estados](/Modelagem/Artefatos/Dinamicos/DiagramadeEstados.md)
     - [2.2. Participações - Modelagem](/Modelagem/2.2.ParticipacoesModelagem.md)
 
 <!--
