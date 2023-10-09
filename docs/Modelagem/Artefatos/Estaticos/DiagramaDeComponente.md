@@ -31,7 +31,7 @@ _Tabela 2: Documentação do Diagrama de Componentes_
 
 </center>
 
-![Diagrama de Componentes](../../Assets/DiagComponentes.jpg)
+![Diagrama de Componentes](../../../Assets/DiagComponentes.jpg)
 
 _Figura 1: Diagrama de componentes_
 

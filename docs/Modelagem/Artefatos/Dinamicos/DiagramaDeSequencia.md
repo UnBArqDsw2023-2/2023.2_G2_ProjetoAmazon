@@ -8,6 +8,7 @@
 | :--: | :--: | :--: | :--: |
 | 0.1 | 07/10/2023 | Criação do documento e adição de diagrama de sequências | André Corrêa e Gabriel Mariano |
 | 0.2 | 08/10/2023 | Adição diagrama de sequência | Felipe Moura |
+| 0.3 | 09/10/2023 | Adição da segunda versão dos diagramas de sequência | André Corrêa e Gabriel Mariano |
 
 
 *Tabela 1: Versionamento*
@@ -25,7 +26,11 @@ Portanto, o presente artefato apresentará melhor as interações decorrentes do
 
 ## Aplicação
 
-Seguindo o material de consulta (apresentado nas referências bibliográficas), foi desenvolvido o diagrama de sequências para o fluxo de avaliação de produtos da Amazon, compreendendo as *lifelines* tanto para os clientes, quanto para a plataforma e seus relativos (Moderação, Programa de Recompensas e Transportadora). 
+Seguindo o material de consulta (apresentado nas referências bibliográficas), foram desenvolvidos os diagrama de sequências para o fluxo de avaliação de produtos da Amazon, compreendendo as *lifelines* tanto para os clientes, quanto para a plataforma e seus relativos (Moderação, Programa de Recompensas e Transportadora). 
+
+### Fluxo de Avaliação de Produtos
+
+#### Primeira Versão
 
 <center>
 
@@ -39,10 +44,31 @@ Seguindo o material de consulta (apresentado nas referências bibliográficas), 
 
 ![Diagrama de Sequências - Fluxo de Avaliação de Produtos](../../../Assets/Modelagem/DiagramaSequencia.jpg)
 
-*Figura 1: Diagrama de Sequências - Fluxo de Avaliação de Produtos*
+*Figura 1: Diagrama de Sequências - Fluxo de Avaliação de Produtos (Primeira Versão)*
 
 No diagrama acima, podem ser observados três focos de ocorrências de sequências: a representação simplificada do fluxo de compras (haja vista que o fluxo de compras é abordado de maneira mais aprofundada por outras equipes), o fluxo de criação de avaliações e o fluxo de interação com avaliações de terceiros.
 
+#### Segunda Versão
+
+<center>
+
+| **Data** | **Participantes** | **Ferramenta Utilizada** |
+| :--: | :--: | :--: |
+| 09/10/2023 | André Corrêa e Gabriel Mariano | [*Miro*](https://miro.com/app/dashboard/) |
+
+*Tabela 3: Documentação do Diagrama de Sequências*
+
+</center>
+
+![Diagrama de Sequências - Fluxo de Avaliação de Produtos](../../../Assets/Modelagem/DiagramaSequencia1_v2.jpg)
+
+*Figura 2: Diagrama de Sequências - Fluxo de Avaliação de Produtos (Segunda Versão)*
+
+Foram realizadas modificações pontuais em relação à primeira versão do diagrama, onde foram alteradas as descrições de alguns fluxos, adicionados *stereotypes* e modificadas as posições de alguns elementos.
+
+### Fluxo de Troca de Pontos
+
+#### Primeira Versão
 
 <center>
 
@@ -50,15 +76,33 @@ No diagrama acima, podem ser observados três focos de ocorrências de sequênci
 | :--: | :--: | :--: |
 | 08/10/2023 | Felipe Moura | [*Miro*](https://miro.com/app/dashboard/) |
 
-*Tabela 3: Documentação do Diagrama de Sequências da Troca de Pontos*
+*Tabela 4: Documentação do Diagrama de Sequências da Troca de Pontos*
 
 </center>
 
 ![Diagrama de Sequências - Fluxo de Troca de Pontos](../../../Assets/Modelagem/DiagramaSequenciaTrocaPontos.jpg)
 
-*Figura 2: Diagrama de Sequências - Fluxo de Troca de Pontos*
+*Figura 3: Diagrama de Sequências - Fluxo de Troca de Pontos (Primeira Versão)*
 
-Foi feito também, seguindo os moldes usados na Figura 1, um diagrama de sequência (Figura 2) que visa detalhar o uso do sistema de troca de pontos mais detalhadamente.
+Foi feito também, seguindo os moldes usados na Figura 1, um diagrama de sequência (Figura 3) que visa detalhar o uso do sistema de troca de pontos.
+
+#### Segunda Versão
+
+<center>
+
+| **Data** | **Participantes** | **Ferramenta Utilizada** |
+| :--: | :--: | :--: |
+| 09/10/2023 | Felipe Moura, Gabriel Mariano e André Corrêa | [*Miro*](https://miro.com/app/dashboard/) |
+
+*Tabela 5: Documentação do Diagrama de Sequências da Troca de Pontos*
+
+</center>
+
+![Diagrama de Sequências - Fluxo de Troca de Pontos](../../../Assets/Modelagem/DiagramaSequencia2_v2.jpg)
+
+*Figura 4: Diagrama de Sequências - Fluxo de Troca de Pontos (Segunda Versão)*
+
+Foram realizadas modificações pontuais em relação à primeira versão do diagrama, onde foram modificados alguns fluxos, contando também com a alteração das descrições de alguns destes.
 
 ## Referências Bibliográficas
 
