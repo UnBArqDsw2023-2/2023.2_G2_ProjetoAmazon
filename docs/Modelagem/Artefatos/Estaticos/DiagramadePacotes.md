@@ -12,6 +12,7 @@
 | 0.3 | 08/10/2023 | Correção de alguns detalhe da documentação do artefato | Diógenes Júnior e Guilherme |
 | 0.4 | 08/10/2023 | Revisão do artefato: pequenas correções no documento | André Corrêa, Felipe Moura e Gabriel Mariano |
 | 0.5 | 09/10/2023 | Modificação da estrutura do Diagrama de Pacotes | Diógenes Júnior e Guilherme |
+| 0.6 | 09/10/2023 | Correção de pequenos erros de digitação e de *link* de imagem | Felipe Moura e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -30,7 +31,7 @@ Um diagrama de pacotes é comumente usado para organizar os elementos de um sist
 
 ## Metodologia
 
-O artefato foi criado por dois membros do grupo durante reuniões, tanto presenciais quanto virtuais. Eles usaram conteúdos do ambiente de aprendizado e realizaram pesquisas como referência para desenvolver o diagrama de pacotes.
+O artefato foi criado por dois membros do grupo durante reuniões tanto presenciais quanto virtuais. Eles usaram conteúdos do ambiente de aprendizado e realizaram pesquisas como referência para desenvolver o diagrama de pacotes.
 
 ## Primeira Versão
 
@@ -58,7 +59,7 @@ O artefato foi criado por dois membros do grupo durante reuniões, tanto presenc
 
 *Tabela 3: Ambiente de criação do artefato Diagrama de Pacotes Segunda Versão*
 
-![Diagrama-de-Pacote](../../../Assets/Modelagem/Diagrama_de_pacotes.png)
+![Diagrama-de-Pacote](../../../Assets/Modelagem/Diagrama_de_Pacotes.png)
 
 *Figura 2: Diagrama de Pacotes Segunda Versão*
 
@@ -66,19 +67,19 @@ O artefato foi criado por dois membros do grupo durante reuniões, tanto presenc
 
 ## Estrutura
 
-O diagrama foi estruturado de acordo com cada camada do sistema
+O diagrama foi estruturado de acordo com cada camada do sistema.
 
 ### Front-End
 
 Corresponde ao modelo da aplicação que irá apresentar os dados e as funcionalidades ao usuário. No caso, a interface corresponde a *front-end* do Sistema de Avaliação da *Amazon*.
 
-No caso, o fluxo possui o pacote Interface Avaliação que corresponde ao front-end destinado a realização das ações ligadas a avaliação (fazer uma avaliação, ler uma avaliação). O pacote Interface Recompensa corresponde ao front-end destinado as recompensas e pontos obitidos na avaliação de um produto. Todos esses pacotes herdam características do Interface Usuário.
+No caso, o fluxo possui o pacote Interface Avaliação que corresponde ao *front-end* destinado a realização das ações ligadas a avaliação (fazer uma avaliação, ler uma avaliação). O pacote **Interface Recompensa** corresponde ao *front-end* destinado as recompensas e pontos obtidos na avaliação de um produto. Todos esses pacotes herdam características do pacote **Interface Usuário**.
 
 ### Back-End
 
 Corresponde ao modelo *back-end* da aplicação. Basicamente, utiliza uma *API* para possibilitar a integração entre o *front-end* e a base de dados.
 
-Nesse caso, o pacote Avaliação integra com a Interface Avaliação, referindo-se aos mecanismos estrutural do site que comanda as ações ligadas a Avaliação no sistema. O pacote Pontuação cumpre a mesma função, porém com ações ligadas ao sistema de Recompensa do Site
+Nesse caso, o pacote **Avaliação** integra com a **Interface Avaliação**, referindo-se aos mecanismos estruturais do *site* que comandam as ações ligadas a **Avaliação** no sistema. O pacote **Pontuação** cumpre a mesma função, porém com ações ligadas ao sistema de recompensa do *site*.
 
 ## Dados
 
