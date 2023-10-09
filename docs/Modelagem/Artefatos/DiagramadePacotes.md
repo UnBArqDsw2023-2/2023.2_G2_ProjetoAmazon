@@ -11,6 +11,7 @@
 | 0.2 | 07/10/2023 | Adição da Introdução, Metodologias e a imagem do Diagrama de Pacotes | Diógenes Júnior e Guilherme |
 | 0.3 | 08/10/2023 | Correção de alguns detalhe da documentação do artefato | Diógenes Júnior e Guilherme |
 | 0.4 | 08/10/2023 | Revisão do artefato: pequenas correções no documento | André Corrêa, Felipe Moura e Gabriel Mariano |
+| 0.5 | 09/10/2023 | Modificação da estrutura do Diagrama de Pacotes | Diógenes Júnior e Guilherme |
 
 *Tabela 1: Versionamento*
 
@@ -39,7 +40,7 @@ O artefato foi criado por dois membros do grupo durante reuniões, tanto presenc
 
 *Tabela 2: Ambiente de criação do artefato Diagrama de Pacotes*
 
-![Diagrama-de-Pacote](../../Assets/Modelagem/Diagrama_de_Pacotes.png)
+![Diagrama-de-Pacote](../../Assets/Modelagem/Diagrama_de_pacotes.png)
 
 *Figura 1: Diagrama de Pacotes*
 
@@ -49,21 +50,17 @@ O artefato foi criado por dois membros do grupo durante reuniões, tanto presenc
 
 O diagrama foi estruturado de acordo com cada camada do sistema
 
-### Interface
+### Front-End
 
 Corresponde ao modelo da aplicação que irá apresentar os dados e as funcionalidades ao usuário. No caso, a interface corresponde a *front-end* do Sistema de Avaliação da *Amazon*.
 
-## Sistema de Avaliação
+No caso, o fluxo possui o pacote Interface Avaliação que corresponde ao front-end destinado a realização das ações ligadas a avaliação (fazer uma avaliação, ler uma avaliação). O pacote Interface Recompensa corresponde ao front-end destinado as recompensas e pontos obitidos na avaliação de um produto. Todos esses pacotes herdam características do Interface Usuário.
+
+### Back-End
 
 Corresponde ao modelo *back-end* da aplicação. Basicamente, utiliza uma *API* para possibilitar a integração entre o *front-end* e a base de dados.
 
-#### Avaliar e Visualizar
-
-Esses pacotes estão ao um mesmo nível de abstração, pois são duas estruturas que o usuário pode utilizar no sistema. No caso em **Avaliar**, o usuário escreve uma avaliação sobre determinado produto e no caso **Visualizar**, o usuário apenas obseerva e analisar outras avaliações.
-
-#### Pontuação e Troca
-
-Esses pacotes importam estruturas de **Avaliar**, pois foi proposto pelo grupo uma nova funcionalidade no Sistema de Avaliação da *Amazon* de recompensar os usuários que avaliam os produtos. Decorrente disso, o pacote **Recompensa** apresenta a **Pontuação** obtida pelos usuários assim como a possibilidade de **Troca** com benefícios ou outros produtos.
+Nesse caso, o pacote Avaliação integra com a Interface Avaliação, referindo-se aos mecanismos estrutural do site que comanda as ações ligadas a Avaliação no sistema. O pacote Pontuação cumpre a mesma função, porém com ações ligadas ao sistema de Recompensa do Site
 
 ## Dados
 
