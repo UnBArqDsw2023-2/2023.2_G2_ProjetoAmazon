@@ -12,6 +12,7 @@
 | :--: | :--: | :--: | :--: |
 | 0.1 | 03/10/2023 | Criação da ata e documentação da reunião | Gabriel, André, Diógenes, Arthur, Felipe, Guilherme, Lorenzo e Pedro |
 | 0.2 | 06/10/2023 | Adição do *Heatmap* de disponibilidade dos integrantes da equipe | André Corrêa e Gabriel Mariano |
+| 0.3 | 07/10/2023 | Pequena correção de responsáveis pelo *SCRUM* | André Corrêa e Gabriel Mariano |
 
 *Tabela 2: Versionamento*
 
@@ -62,7 +63,7 @@ Foram definidos os diagramas a serem realizados:
     - Todos
 
 - Organização do SCRUM:
-  - André, Felipe e Gabriel
+  - André, Diógenes, Felipe e Gabriel
 
 Foi definida a data de entrega dos diagramas para a revisão: 06/10/23 (à noite).
 
@@ -86,8 +87,6 @@ Acima, é notável a maior disponibilidade dos integrantes nas manhãs de terça
 | **Data** | **Participantes** | **Ferramenta Utilizada** |
 | :--: | :--: | :--: |
 | 03/10/2023 | Todos os membros do grupo | [when2meet](https://www.when2meet.com/) |
-
-
 
 *Tabela 3: Documentação do Heatmap*
 
