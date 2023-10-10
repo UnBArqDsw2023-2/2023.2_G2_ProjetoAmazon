@@ -10,7 +10,7 @@
 | 0.2 | 08/10/2023 | Revisão dos artefatos: pequenas correções de erros | André Corrêa, Felipe Cândido e Gabriel Mariano |
 | 0.3 | 08/10/2023 | Adição de novo diagrama de classe, corrigido de acordo com a revisão | Thiago Oliveira |
 | 0.4 | 09/10/2023 | Adição de novo diagrama de classe, corrigido de acordo com os pontos vistos pela professora | Thiago Oliveira |
-| 0.5 | 09/10/2023 | Pequenas correções de detalhes e breve organização do artefato | André Corrêa e Gabriel Mariano  | 
+| 0.5 | 09/10/2023 | Pequenas correções de detalhes, breve organização do artefato e correção de link | André Corrêa e Gabriel Mariano  | 
 
 *Tabela 1: Versionamento*
 
@@ -31,7 +31,7 @@ Seguindo o material de consulta (apresentado nas referências bibliográficas), 
 
 | **Data** | **Participantes** | **Ferramenta Utilizada** |
 | :--: | :--: | :--: |
-| 06/10/2023 | Arthur Taylor e Thiago Oliveira | [*Lucid Chart*](https://lucidchart.com.br) |
+| 06/10/2023 | Arthur Taylor e Thiago Oliveira | [*Lucidchart*](https://lucidchart.com) |
 
 *Tabela 2: Documentação do Diagrama de Classe*
 
