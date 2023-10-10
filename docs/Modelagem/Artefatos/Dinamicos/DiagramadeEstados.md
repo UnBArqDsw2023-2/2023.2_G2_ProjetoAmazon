@@ -7,6 +7,7 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 07/10/2023 | Criação do documento e adição de diagrama de estados | Arthur Taylor e Thiago Oliveira |
+| 0.2 | 09/10/2023 | Pequena correção de *link* | André Corrêa e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -27,7 +28,7 @@ Seguindo o material de consulta (apresentado nas referências bibliográficas), 
 
 | **Data** | **Participantes** | **Ferramenta Utilizada** |
 | :--: | :--: | :--: |
-| 06/10/2023 | Arthur Taylor e Thiago Oliveira | [*Lucid Chart*](https://lucidchart.com.br) |
+| 06/10/2023 | Arthur Taylor e Thiago Oliveira | [*Lucidchart*](https://lucidchart.com) |
 
 *Tabela 2: Documentação do Diagrama de Estados*
 
