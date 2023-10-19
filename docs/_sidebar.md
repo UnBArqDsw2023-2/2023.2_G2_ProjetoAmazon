@@ -9,6 +9,7 @@
   - [Política de Commits e Branching](/Politicas/Commits.md)
   - [Template de Reuniões](/Politicas/Reunioes.md)
   - [Política de Versionamento e Referências](/Politicas/Versionamento.md)
+  - [Scrum](/Politicas/Scrum.md)
 
 - **Reuniões**
   - [1.1. Primeira Reunião](/Atas/Reuniao_07-09-23.md)
