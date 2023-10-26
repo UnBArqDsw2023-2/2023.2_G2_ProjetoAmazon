@@ -18,6 +18,7 @@
   - [1.4. Quarta Reunião](/Atas/Reuniao_14-09-23.md)
   - [1.5. Quinta Reunião](/Atas/Reuniao_03-10-23.md)
   - [1.6. Sexta Reunião](/Atas/Reuniao_19-10-23.md)
+  - [1.7. Sétima Reunião](/Atas/Reuniao_26-10-23.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
