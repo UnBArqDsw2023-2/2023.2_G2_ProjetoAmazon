@@ -7,6 +7,7 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 07/10/2023 | Criação do documento e adição de diagrama de estados | Arthur Taylor e Thiago Oliveira |
+| 0.2 | 29/11/2023 | Refatoração do diagrama de estados para a entrega final | Arthur Taylor e Thiago Oliveira |
 
 *Tabela 1: Versionamento*
 
@@ -33,7 +34,14 @@ Seguindo o material de consulta (apresentado nas referências bibliográficas), 
 
 </center>
 
+<details>
+<summary>Clique para exibir o diagrama de estados v1.0</summary>
+
 ![Diagrama de Estados ](../../Assets/Modelagem/DiagramaDeEstados.jpeg)
+</details>
+
+
+![Diagrama de Estados ](../../Assets/Modelagem/DiagramaDeEstadosV2.png)
 
 *Figura 1: Diagrama de Estados - Fluxo de Avaliação de Produtos*
 
