@@ -7,7 +7,7 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 29/11/2023 | Criação do documento | Felipe Candido de Moura |
-| 0.1 | 29/11/2023 | Adição do texto da visão de implemetação | Eduardo, Pedro e Lorenzo |
+| 0.2 | 30/11/2023 | Adição do texto da visão de implemetação | Eduardo, Pedro e Lorenzo |
 
 *Tabela 1: Versionamento*
 
