@@ -9,6 +9,7 @@
 | 0.1 | 29/11/2023 | Criação do documento | Felipe Candido de Moura |
 | 0.2 | 30/11/2023 | Adição de novas estruturas no documento DAS | Diógenes Júnior |
 | 0.3 | 30/11/2023 | Adição da estrutura visão de implantação | Diógenes Júnior |
+| 0.4 | 30/11/2023 | Adição do diagrama de implantação e documentação de seus respectivos componentes | Diógenes Júnior e Guilherme Kishimoto |
 
 *Tabela 1: Versionamento*
 
