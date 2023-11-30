@@ -61,6 +61,8 @@ Para o projeto, foram desenvolvidos dois diagramas de sequência que explicitam 
 
 ## 7. Visão de Implementação 
 
+A visão de implementação é mais interessada em ideias mais concretas sobre o trabalho, especificamente sobre as tecnologias a serem usadas, a estruturação de código, a reutilização de código, o uso de certos frameworks, além de ser uma forma de tradução das visões mais abstratas para algo mais palpável.
+
 ## 8. Tamanho e Performance
 
 ## 9. Qualidade 
