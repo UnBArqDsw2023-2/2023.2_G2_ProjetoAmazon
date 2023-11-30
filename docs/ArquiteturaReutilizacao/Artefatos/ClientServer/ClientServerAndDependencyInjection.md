@@ -9,6 +9,7 @@
 | 0.1 | 30/11/2023 | Criação do documento | Felipe Moura, André Corrêa e Gabriel Mariano |
 | 0.2 | 30/11/2023 | Documentação das atividades realizadas | Felipe Moura, André Corrêa e Gabriel Mariano |
 | 0.3 | 30/11/2023 | Início da Documentação do Código | Felipe Moura, André Corrêa e Gabriel Mariano |
+| 0.4 | 30/11/2023 | Finalizando Documentação do Código | Felipe Moura, André Corrêa e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -198,6 +199,37 @@ Os *controllers*, de certa forma, definem os serviços a serem executados de aco
 ![PONTOS CONTROLLER](../../../Assets/ClientServer/pontoscontroller.png)
 
 *Figura 11: Pontos Controller*
+
+</details>
+
+### Services
+
+Os *services* são responsáveis por receber, caso necessário, o conteúdo possivelmente enviado pela requisição, processar os dados, eventualmente realizar conexões com o banco de dados e, por fim, retornar a informação requerida. Abaixo, os códigos disponibilizados nos *services* ```app.service.ts```, ```avaliacao.service.ts``` e ```pontos.service.ts```, respectivamente.
+
+<details>
+<summary> <strong> CLIQUE PARA EXIBIR O CÓDIGO DO SERVICE DO APP </strong> </summary>
+
+![APP SERVICE](../../../Assets/ClientServer/appservice.png)
+
+*Figura 12: App Service*
+
+</details>
+
+<details>
+<summary> <strong> CLIQUE PARA EXIBIR O CÓDIGO DO SERVICE DA AVALIAÇÃO </strong> </summary>
+
+![AVALIAÇÃO SERVICE](../../../Assets/ClientServer/avaliacaoservice.png)
+
+*Figura 13: Avaliação Service*
+
+</details>
+
+<details>
+<summary> <strong> CLIQUE PARA EXIBIR O CÓDIGO DO SERVICE DOS PONTOS </strong> </summary>
+
+![PONTOS SERVICE](../../../Assets/ClientServer/pontosservice.png)
+
+*Figura 14: Pontos Service*
 
 </details>
 
