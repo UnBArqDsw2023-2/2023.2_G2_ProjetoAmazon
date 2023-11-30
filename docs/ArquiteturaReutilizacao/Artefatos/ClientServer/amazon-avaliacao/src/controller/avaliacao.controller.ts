@@ -1,5 +1,5 @@
-import { Controller, Get } from '@nestjs/common';
-import { AppService } from '../service/app.service';
+import { Controller, Get, Res } from '@nestjs/common';
+import { type Response } from 'express';
 import { AvaliacaoService } from '../service/avaliacao.service';
 
 @Controller('avaliacao')
@@ -7,7 +7,7 @@ export class AvaliacaoController {
   constructor(private readonly avaliacaoService: AvaliacaoService) {}
 
   @Get()
-  getPage() {
-    return this.avaliacaoService.getPage();
+  getPage(@Res() response: Response) {
+    return this.avaliacaoService.getPage(response);
   }
 }
