@@ -7,7 +7,8 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 29/11/2023 | Criação do documento | Felipe Candido de Moura |
-| 0.1 | 30/11/2023 | Adição de novas estruturas no documento DAS | Diógenes Júnior |
+| 0.2 | 30/11/2023 | Adição de novas estruturas no documento DAS | Diógenes Júnior |
+| 0.3 | 30/11/2023 | Adição da estrutura visão de implantação | Diógenes Júnior |
 
 *Tabela 1: Versionamento*
 
@@ -98,6 +99,8 @@ Para o projeto, foram desenvolvidos dois diagramas de sequência que explicitam 
 
 
 ## 7. Visão de Implementação 
+
+## 8. Visão de Implantação
 
 ## 8. Tamanho e Performance
 
