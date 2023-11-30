@@ -14,7 +14,6 @@
 
 </center>
 
-
 ## 1. Introdução
 
 O Documento de Arquitetura de Software (DAS) presente visa descrever o a arquitetura de software do Projeto Amazon feito para a disciplina Arquitetura de Software no semestre 2023.2. O projeto usa como base o sistema de avaliação de produtos da plataforma de _e-commerce_ Amazon. Decidimos por usar o modelo de documento 4+1 (representado na Figura 1), que inclui 4 visões além da visão de caso de uso.
@@ -102,11 +101,57 @@ Para o projeto, foram desenvolvidos dois diagramas de sequência que explicitam 
 
 ## 8. Visão de Implantação
 
-## 8. Tamanho e Performance
+Um diagrama de implantação é um tipo de diagrama UML (Unified Modeling Language) que representa a disposição física de elementos de um sistema em hardware. Ele mostra como os vários componentes de software, como aplicativos, servidores e dispositivos de armazenamento, estão distribuídos em diferentes nós de hardware, como computadores físicos ou máquinas virtuais.
 
-## 9. Qualidade 
+Este documento apresenta a arquitetura de implantação de um sistema distribuído, focado em eficiência, segurança e escalabilidade. O sistema é estruturado em vários nós principais: Cliente, Proxy, Web Server e Database, cada um com componentes e entidades específicas.
 
+![Diagrama de Implantação](../../Assets/Modelagem/DiagramaDeImplantacao.jpeg)
 
+### 8.1 Nó Cliente
+- Componentes:
+  - Browser: Interface de usuário para acesso ao sistema.
+- Comunicação:
+  - Estabelece uma conexão TCP/IP com o nó Proxy.
+
+### 8.2 Nó Proxy
+- Componentes:
+  - Gerenciamento de Cache:
+    - Entidade Cache: Responsável por armazenar dados frequentemente acessados, melhorando a resposta do sistema.
+  - Segurança:
+    - Entidade Filtro de Navegação: Filtra requisições para segurança do sistema.
+  - Serviços de Privacidade:
+    - Entidade Anonimato: Garante a privacidade e anonimato dos usuários.
+- Comunicação:
+  - Conecta-se ao Web Server via HTTPS.
+
+### 8.3 Nó Web Server
+- Componentes:
+  - Amazon Server: Servidor de aplicação principal.
+  - Permissão de Usuário: Gerencia as permissões e acessos dos usuários.
+  - Federação de Usuário: Facilita a autenticação de usuários de diferentes domínios.
+- Comunicação:
+  - Estabelece uma conexão HTTPS com outro nó Proxy.
+
+### 8.4 Segundo Nó Proxy
+- Componentes e Entidades: Mesmos do primeiro nó Proxy.
+- Comunicação:
+  - Conecta-se ao nó Database via TCP/IP.
+
+### 8.5 Nó Database
+- Componentes:
+  - Amazon Database: Responsável pelo armazenamento e gerenciamento de dados.
+
+### 8.6 Fluxo de Dados e Controle
+1. Do Cliente ao Proxy: O tráfego inicia no Cliente, passa pelo Browser e é direcionado ao Proxy via TCP/IP.
+2. Do Proxy ao Web Server: O Proxy processa as requisições, aplicando cache, segurança e privacidade, antes de enviar ao Web Server via HTTPS.
+3. Do Web Server ao Database: Após processamento no Web Server, as requisições são encaminhadas através de um segundo Proxy para o Database para operações de dados.
+
+### Conclusão
+Este sistema apresenta uma arquitetura robusta e segura, com ênfase em eficiência de processamento, segurança da informação e privacidade do usuário. Cada nó e componente é estrategicamente posicionado para otimizar a performance, segurança e escalabilidade do sistema.
+
+## 9. Tamanho e Performance
+
+## 10. Qualidade 
 
 ## Referências
 
