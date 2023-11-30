@@ -13,6 +13,7 @@
 | 0.4 | 08/10/2023 | Revisão do artefato: pequenas correções no documento | André Corrêa, Felipe Moura e Gabriel Mariano |
 | 0.5 | 09/10/2023 | Modificação da estrutura do Diagrama de Pacotes | Diógenes Júnior e Guilherme |
 | 0.6 | 09/10/2023 | Correção de pequenos erros de digitação e de *link* de imagem | Felipe Moura e Gabriel Mariano |
+| 0.7 | 29/11/2023 | Adição da terceira versão do diagrama de pacotes, descrições dos novos pacotes adicionados no diagrama e adição do detalhamento de como o diagrama foi planejado e montado | Diógenes Júnior e Guilherme Kishimoto |
 
 *Tabela 1: Versionamento*
 
