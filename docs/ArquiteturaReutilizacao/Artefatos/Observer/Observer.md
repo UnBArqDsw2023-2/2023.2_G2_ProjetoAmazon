@@ -15,7 +15,7 @@ _Tabela 1: Versionamento_
 
 ## Introdução
 
-Com a proposta de demosntrar do padrão de projeto Observer, desenvolvemos um código em C++ que representa as classes do padrão escolhido.
+Com a proposta de demonstrar do padrão de projeto Observer, desenvolvemos um código em C++ que representa as classes do padrão escolhido.
 
 ## Tecnologias
 
