@@ -15,7 +15,7 @@
 | 0.7 | 30/11/2023 | Adição do Diagrama de Casos de Uso | André Corrêa, Diógenes Júnior, Felipe Moura, Gabriel Mariano e Guilherme Kishimoto |
 | 0.8 | 01/12/2023 | Adição da visão de processo | André Corrêa, Felipe Moura e Gabriel Mariano |
 | 0.9 | 01/12/2023 | Refatoração do DCU | André Corrêa e Gabriel Mariano |
-
+| 1.0 | 01/12/2023 | correção numeração tabelas e figuras | André Corrêa e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
