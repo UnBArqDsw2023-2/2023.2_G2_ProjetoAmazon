@@ -8,6 +8,7 @@
 | :--------: | :--------: | :------------------------------: | :-----------------------------: | 
 |    0.1     | 30/11/2023 |       Criação do documento       | Arthur Taylor e Thiago Oliveira |
 |    0.2     | 30/11/2023 |       Revisão do documento       | Arthur Taylor e Thiago Oliveira |
+|    0.3     | 01/12/2023 |       *Quickfix*: Nome do Padrão *Decorator* no Título       | André Corrêa e Gabriel Mariano |
 
 
 _Tabela 1: Versionamento_
@@ -27,7 +28,7 @@ Com a proposta de demonstrar o padrão de projeto Decorator, desenvolvemos um c�
 
 _Tabela 2: Tecnologias_
 
-## Por que o Padrão de Projeto Observer?
+## Por que o Padrão de Projeto Decorator?
 
 O padrão de projeto decorator é um padrão que nos permite incluir novos comportamentos à objetos, isso foi identificado pelo grupo como uma boa forma de se tratar a avaliação de um produto. Uma vez que o padrão nos proporciona uma modularidade muito grande, o que é buscado quando analisamos o escopo de avaliaçãoes, uma vez que as avaliações possuem um centro que deve ser preenchido, mas possui também várias partes que constam como opcional, por isso o padrão de projeto foi escolhido.
 
