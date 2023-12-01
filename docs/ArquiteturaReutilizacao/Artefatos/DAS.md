@@ -130,7 +130,7 @@ Com base nessa análise, decidimos sobre os casos de uso apresentados. Eles refl
 <center>
 
 ![Diagrama de Casos de Uso](../../Assets/DiagramaCasosDeUso.png)
-*Figura X: Diagrama de casos de uso versão 1*
+*Figura 2: Diagrama de casos de uso versão 1*
 
 </center>
 </details>
@@ -140,7 +140,7 @@ Com base nessa análise, decidimos sobre os casos de uso apresentados. Eles refl
 <center>
 
 ![Diagrama de Casos de Uso V2](../../Assets/DiagramaCasosDeUsoV2.png)
-*Figura X: Diagrama de casos de uso versão 2*
+*Figura 3: Diagrama de casos de uso versão 2*
 
 </center>
 
@@ -152,13 +152,13 @@ Foram desenvolvidos os diagramas de classe e estados que buscam refletir o proce
 
 ![Diagrama de Classes](../../Assets/Modelagem/diagrama-de-classe-v4.0.png)
 
-*Figura X: Diagrama de Classes de Avaliação de um produto*
+*Figura 4: Diagrama de Classes de Avaliação de um produto*
 
 Este diagrama foi elaborado buscando observar e entender as classes existentes na aplicação e como elas se relacionam no escopo analisado, de avaliação de um produto. Com isso esta versão final deste diagrama possui a modelagem dos pontos identificados pelo grupo durante o projeto.
 
 ![Diagrama de Estados](../../Assets/Modelagem/DiagramaDeEstadosV2.png)
 
-*Figura X: Diagrama de Estados de Avaliação de um produto* 
+*Figura 5: Diagrama de Estados de Avaliação de um produto* 
 
 O diagrama de estados busca evidenciar os fluxos que ocorrem quando um usuário avalia um produto, evidenciando como o sistema se comporta com a navegação do usuário, este diagrama é deveras importante para entender como o sistema trataria as ações do usuário.
 
@@ -170,7 +170,7 @@ Para o projeto, foi desenvolvidos um diagrama de processo que explicíta tais pr
 
 ![Diagrama de Processo](../../Assets/diagramaVisaoProcesso.jpg)
 
-*Figura X: Diagrama de Processo*
+*Figura 6: Diagrama de Processo*
 
 Abaixo estão descritas as funções referentes aos principais processos:
 
