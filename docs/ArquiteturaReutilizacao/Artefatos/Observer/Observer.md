@@ -8,6 +8,7 @@
 | :--------: | :--------: | :------------------------------: | :----------------------------: |
 |    0.1     | 30/11/2023 |       Criação do documento       | Pedro Lucas, Lorenzo e Eduardo |
 |    0.2     | 30/11/2023 | Adição de Código C++ do Obersver | Pedro Lucas, Lorenzo e Eduardo |
+|    0.3     | 1/12/2023 | Adição do diagrama do Obersver | Lorenzo |
 
 _Tabela 1: Versionamento_
 
@@ -38,6 +39,17 @@ Está dividio em 3 arquivos e 2 bibliotecas:
 - subject.cpp: Carrega o conteúdo relacionado ao Subject;
 - main.cpp: É o código cliente que irá se comunicar com os observer e subject;
 - observer.h e subject.h: Contém as assinaturas e classes utilizadas.
+
+## Diagrama
+
+<details>
+<summary> <strong> CLIQUE PARA EXIBIR O DIAGRAMA </strong> </summary>
+
+![Strategy_Code](../../../Assets/Observer/observerDiagram.png)
+
+*Figura 1: Diagrama Observer*
+
+</details>
 
 ## Código Desenvolvido
 
