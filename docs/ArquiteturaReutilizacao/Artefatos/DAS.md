@@ -11,6 +11,7 @@
 | 0.3 | 30/11/2023 | Adição de novas estruturas no documento DAS | Diógenes Júnior |
 | 0.4 | 30/11/2023 | Adição da estrutura visão de implantação | Diógenes Júnior |
 | 0.5 | 30/11/2023 | Adição do diagrama de implantação e documentação de seus respectivos componentes | Diógenes Júnior e Guilherme Kishimoto |
+| 0.6 | 30/11/2023 | Adição da visão lógica | Arthur Taylor e Thiago Oliveira |
 
 *Tabela 1: Versionamento*
 
@@ -83,6 +84,24 @@ O diagrama de estados é mais um diagrama de modelagem dinâmica UML, ele consis
 ## 4. Visão de Casos de Uso
 
 ## 5. Visão Lógica
+
+A visão lógica busca tratar sobre a estruturação e a organização do sistema, destacando os pontos chaves do projeto como por exemplo as classes, pacotes, estados e afins.
+
+Foram desenvolvidos os diagramas de classe e estados que buscam refletir o processo de avaliação de um produto dentro da aplicação da amazon.
+
+![Diagrama de Classes](../../Assets/Modelagem/diagrama-de-classe-v4.0.png)
+
+*Figura X: Diagrama de Classes de Avaliação de um produto*
+
+Este diagrama foi elaborado buscando observar e entender as classes existentes na aplicação e como elas se relacionam no escopo analisado, de avaliação de um produto. Com isso esta versão final deste diagrama possui a modelagem dos pontos identificados pelo grupo durante o projeto.
+
+![Diagrama de Estados](../../Assets/Modelagem/DiagramaDeEstadosV2.png)
+
+*Figura X: Diagrama de Estados de Avaliação de um produto* 
+
+O diagrama de estados busca evidenciar os fluxos que ocorrem quando um usuário avalia um produto, evidenciando como o sistema se comporta com a navegação do usuário, este diagrama é deveras importante para entender como o sistema trataria as ações do usuário.
+
+Ambos os diagramas foram desenvolvidos buscando analisar o escopo de avaliar um produto por parte de um usuário, escopo este definido no início do projeto.
 
 ## 6. Visão de Processo
 
@@ -166,3 +185,5 @@ Este sistema apresenta uma arquitetura robusta e segura, com ênfase em eficiên
 https://www.researchgate.net/figure/4-1-Architectural-View-Model-Software-architecture-descriptions-are-commonly-organized_fig2_311233381
 
 http://repositorio.aee.edu.br/bitstream/aee/1106/3/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice2.pdf
+
+https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/logical_view_C135365E.html
