@@ -7,6 +7,7 @@
 | **Versão** |  **Data**  |         **Modificações**         |         **Autor(es)**           |
 | :--------: | :--------: | :------------------------------: | :-----------------------------: | 
 |    0.1     | 30/11/2023 |       Criação do documento       | Arthur Taylor e Thiago Oliveira |
+|    0.2     | 30/11/2023 |       Revisão do documento       | Arthur Taylor e Thiago Oliveira |
 
 
 _Tabela 1: Versionamento_
@@ -15,7 +16,7 @@ _Tabela 1: Versionamento_
 
 ## Introdução
 
-Com a proposta de demonstrar do padrão de projeto Decorator, desenvolvemos um código em C++ que representa as classes do padrão escolhido, visto que este padrão de projeto foi identificado pelo grupo como um padrão que se encaixa no escopo analisado.
+Com a proposta de demonstrar o padrão de projeto Decorator, desenvolvemos um código em C++ que representa as classes do padrão escolhido, visto que este padrão de projeto foi identificado pelo grupo como um padrão que se encaixa no escopo analisado.
 
 ## Tecnologias
 
@@ -28,9 +29,9 @@ _Tabela 2: Tecnologias_
 
 ## Por que o Padrão de Projeto Observer?
 
-O padrão de projeto decorator é um padrão que nos permite incluir novos comportamentos à objetos, isso foi identificado pelo grupo como uma boa forma de se tratar a avaliação de um produto. Uma vez que o padrão nos proporciona uma modularidade muito grande, o que é buscado quando analisamos o escopo de avaliaçãoes, uma vez que aas avaliações possume um centro que deve ser preenchido, mas possui também várias partes que constam como opcional, por isso o padrão de projeto foi escolhido.
+O padrão de projeto decorator é um padrão que nos permite incluir novos comportamentos à objetos, isso foi identificado pelo grupo como uma boa forma de se tratar a avaliação de um produto. Uma vez que o padrão nos proporciona uma modularidade muito grande, o que é buscado quando analisamos o escopo de avaliaçãoes, uma vez que as avaliações possuem um centro que deve ser preenchido, mas possui também várias partes que constam como opcional, por isso o padrão de projeto foi escolhido.
 
-Por exemplo, uma avaliação deve conter uma avaliação em estrelas do produto, um resumo da avaliação que será postada e também deve conter um texto explicativo da sua avaliação, mas isso não é tudo, uma avaliação pode conter também outras informações como por exemplo fotos do produto recebido. Com isso a modularidade explicada acima se faz muito nescessária para que não seja nescessário para os desenvolvedores uma grande quantidade de retrabalho além de previnir um grande acomplamento e permitir a escalabilidade do sistema.
+Por exemplo, uma avaliação deve conter uma avaliação em estrelas do produto, um resumo da avaliação que será postada e também deve conter um texto explicativo da sua avaliação, mas isso não é tudo, uma avaliação pode conter também outras informações como por exemplo fotos do produto recebido. Com isso a modularidade explicada acima se faz muito nescessária para que os desenvolvedores não tenham uma grande quantidade de retrabalho além de previnir um grande acomplamento e permitir a escalabilidade do sistema.
 
 Está dividio em 4 arquivos e 6 bibliotecas:
 
