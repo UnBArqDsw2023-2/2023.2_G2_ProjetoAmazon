@@ -174,7 +174,7 @@ Abaixo estão descritas as funções referentes aos principais processos:
 | u10: resgatarProduto() | Resgata um produto em troca de pontos | ProgramaRecompensa |
 | u11: verificarPontos() | Verifica os pontos já obtidos | ProgramaRecompensa |
 
-*Tabela X: Descrição do processo Usuário*
+*Tabela 3: Descrição do processo Usuário*
 
 
 ### Moderador
@@ -183,7 +183,7 @@ Abaixo estão descritas as funções referentes aos principais processos:
 |------|-----------|---------|
 | m1: validaAvaliacao() | Retorna se um comentário foi validado ou não | GestãoComentário |
 
-*Tabela X: Descrição do processo Moderador*
+*Tabela 4: Descrição do processo Moderador*
 
 ### ProgramaRecompensa
 
@@ -195,7 +195,7 @@ Abaixo estão descritas as funções referentes aos principais processos:
 | pr4: buscarProduto() | Busca os produtos disponíveis no banco de dados de produtos | BancoDadosProdutos |
 | pr5: atualizarProduto() | Atualiza o estado dos produtos (disponível/indisponível) | BancoDadosProdutos |
 
-*Tabela X: Descrição do processo ProgramaRecompensa*
+*Tabela 5: Descrição do processo ProgramaRecompensa*
 
 ### GestãoComentário
 
@@ -209,7 +209,7 @@ Abaixo estão descritas as funções referentes aos principais processos:
 | c6: excluirAvaliacao() | Exclui uma avaliação do banco de dados | BancoDadosAvaliacao |
 | c7: atualizarAvaliacao() | Atualiza uma avaliação do banco de dados| BancoDadosAvaliacao |
 
-*Tabela X: Descrição do processo GestãoComentário*
+*Tabela 6: Descrição do processo GestãoComentário*
 
 
 ## 6. Visão de Implementação 
@@ -285,3 +285,7 @@ https://www.researchgate.net/figure/4-1-Architectural-View-Model-Software-archit
 http://repositorio.aee.edu.br/bitstream/aee/1106/3/TCC2_2018_2_GabrielLeiteDias_MatheusLimadeAlbuquerque_Apendice2.pdf
 
 https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/logical_view_C135365E.html
+
+[Diagrama de Processos - grupo 2 2023.1](https://github.com/UnBArqDsw2023-1/2023.1_G2_ProjetoMercadoLivre/blob/main/docs/Assets/diagramas/ProcessosV1.png)
+
+https://docs.aws.amazon.com/pt_br/
