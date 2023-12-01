@@ -52,5 +52,7 @@
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
       - [4.1.1. Documento de Arquitetura de Software](/ArquiteturaReutilizacao/Artefatos/DAS.md)
     - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/Artefatos/)
-      - [4.3. Estilo Arquitetural Cliente-Servidor e Dependency Injection](/ArquiteturaReutilizacao/Artefatos/ClientServer/ClientServerAndDependencyInjection.md)
+      - [4.2.1 Estilo Arquitetural Cliente-Servidor e Dependency Injection](/ArquiteturaReutilizacao/Artefatos/ClientServer/ClientServerAndDependencyInjection.md)
+      - [4.2.2 Estilo Arquitetural Observer](/ArquiteturaReutilizacao/Artefatos/Observer/Observer.md)
+      - [4.2.3 Estilo Arquitetural Strategy](/ArquiteturaReutilizacao/Artefatos/Strategy/Strategy.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)

@@ -13,6 +13,7 @@
 | 0.5 | 30/11/2023 | Adição do diagrama de implantação e documentação de seus respectivos componentes | Diógenes Júnior e Guilherme Kishimoto |
 | 0.6 | 30/11/2023 | Adição da visão lógica | Arthur Taylor e Thiago Oliveira |
 | 0.7 | 30/11/2023 | Adição do Diagrama de Casos de Uso | André Corrêa, Diógenes Júnior, Felipe Moura, Gabriel Mariano e Guilherme Kishimoto |
+| 0.8 | 01/12/2023 | Adição da visão de processo | André Corrêa, Felipe Moura e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
