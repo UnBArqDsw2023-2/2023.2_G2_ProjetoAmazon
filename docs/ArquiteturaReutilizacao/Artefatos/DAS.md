@@ -14,6 +14,8 @@
 | 0.6 | 30/11/2023 | Adição da visão lógica | Arthur Taylor e Thiago Oliveira |
 | 0.7 | 30/11/2023 | Adição do Diagrama de Casos de Uso | André Corrêa, Diógenes Júnior, Felipe Moura, Gabriel Mariano e Guilherme Kishimoto |
 | 0.8 | 01/12/2023 | Adição da visão de processo | André Corrêa, Felipe Moura e Gabriel Mariano |
+| 0.9 | 01/12/2023 | Refatoração do DCU | André Corrêa e Gabriel Mariano |
+
 
 *Tabela 1: Versionamento*
 
@@ -122,9 +124,23 @@ Para desenvolver este diagrama, os integrantes André, Diógenes, Felipe, Gabrie
 
 Com base nessa análise, decidimos sobre os casos de uso apresentados. Eles refletem não apenas as funcionalidades existentes do sistema da Amazon, mas também inovações propostas por nossa equipe, como a possibilidade de fazer avaliações anônimas e um sistema de pontuação mais envolvente, por exemplo. Abaixo, segue o diagrama de casos de uso:
 
+### Primeira versão do diagrama de casos de uso (DCU)
+<details>
+<summary> <strong> CLIQUE PARA EXIBIR A PRIMEIRA VERSÃO DO DCU </strong> </summary>
 <center>
 
 ![Diagrama de Casos de Uso](../../Assets/DiagramaCasosDeUso.png)
+*Figura X: Diagrama de casos de uso versão 1*
+
+</center>
+</details>
+
+### Segunda versão do diagrama de casos de uso (DCU)
+
+<center>
+
+![Diagrama de Casos de Uso V2](../../Assets/DiagramaCasosDeUsoV2.png)
+*Figura X: Diagrama de casos de uso versão 2*
 
 </center>
 
