@@ -1,4 +1,4 @@
-# Padrão Arquitetura _Strategy_
+# Padrão Arquitetura _Observer_
 
 ## Versionamento
 
