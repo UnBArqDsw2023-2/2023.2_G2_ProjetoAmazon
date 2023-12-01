@@ -47,12 +47,6 @@
         - [2.1.2.3. Diagrama de Estados](/Modelagem/Artefatos/Dinamicos/DiagramadeEstados.md)
     - [2.2. Participações - Modelagem](/Modelagem/2.2.ParticipacoesModelagem.md)
 
-<!--
-- **Padrões de Projeto**
-  - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)
-    - [Avaliado via Prova]
--->
-
 - **Arquitetura de Software & Reutilização**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)

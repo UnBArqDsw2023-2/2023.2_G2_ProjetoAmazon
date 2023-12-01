@@ -80,9 +80,7 @@ O diagrama de estados é mais um diagrama de modelagem dinâmica UML, ele consis
 
 > <a id="FTF1Ref" href="#FTF1"></a> [Diagrama de Estados](Modelagem/Artefatos/Dinamicos/DiagramaDeEstados.md).
 
-## 3. Objetivos e Restrições Arquiteturais
-
-## 4. Visão de Casos de Uso
+## 3. Visão de Casos de Uso
 
 Casos de uso são uma técnica de modelagem usada para descrever a funcionalidade de um sistema de forma a demonstrar como ele interage com entidades externas, conhecidas como atores. Em essência, um caso de uso descreve quem pode fazer o quê com o sistema em questão. Esta abordagem é utilizada para capturar requisitos funcionais, fornecendo uma visão clara de como o sistema deve se comportar.
 
@@ -129,7 +127,7 @@ Com base nessa análise, decidimos sobre os casos de uso apresentados. Eles refl
 
 </center>
 
-## 5. Visão Lógica
+## 4. Visão Lógica
 
 A visão lógica busca tratar sobre a estruturação e a organização do sistema, destacando os pontos chaves do projeto como por exemplo as classes, pacotes, estados e afins.
 
@@ -149,7 +147,7 @@ O diagrama de estados busca evidenciar os fluxos que ocorrem quando um usuário 
 
 Ambos os diagramas foram desenvolvidos buscando analisar o escopo de avaliar um produto por parte de um usuário, escopo este definido no início do projeto.
 
-## 6. Visão de Processo
+## 5. Visão de Processo
 
 A visão de processo, visa descrever os processos do sistema e suas comunicações de forma à explicitar e facilitar o entendimento das interações entre seus diferentes componentes.
 
@@ -164,7 +162,7 @@ Para o projeto, foram desenvolvidos dois diagramas de sequência que explicitam 
 *Figura X: Diagrama de Sequência do Fluxo de Troca de Pontos* 
 
 
-## 7. Visão de Implementação 
+## 6. Visão de Implementação 
 
 A visão arquitetural de implemetação tem como objetivo ser mais objetiva nas decisões sobre estruturamento de código, frameworks, reutilização de código, tecnologias, etc. Tendo essa visão em em mente, realizamos uma extensa série de estudos para aprofundar nossa compreensão sobre as nuances da visão arquitetural e da visão de implementação. Foi imperativo revisitar o módulo de UML para compreender como um diagrama de componentes opera. 
  
@@ -172,7 +170,7 @@ Após a conclusão desses estudos, os alunos Eduardo, Pedro e Lorenzo elaboraram
 
 ![Diagrama de Implementação](../../Assets/Modelagem/DiagramaDeCompoonente_v2.png)
 
-## 8. Visão de Implantação
+## 7. Visão de Implantação
 
 Um diagrama de implantação é um tipo de diagrama UML (Unified Modeling Language) que representa a disposição física de elementos de um sistema em hardware. Ele mostra como os vários componentes de software, como aplicativos, servidores e dispositivos de armazenamento, estão distribuídos em diferentes nós de hardware, como computadores físicos ou máquinas virtuais.
 
@@ -180,13 +178,13 @@ Este documento apresenta a arquitetura de implantação de um sistema distribuí
 
 ![Diagrama de Implantação](../../Assets/Modelagem/DiagramaDeImplantacao.jpeg)
 
-### 8.1 Nó Cliente
+### 7.1 Nó Cliente
 - Componentes:
   - Browser: Interface de usuário para acesso ao sistema.
 - Comunicação:
   - Estabelece uma conexão TCP/IP com o nó Proxy.
 
-### 8.2 Nó Proxy
+### 7.2 Nó Proxy
 - Componentes:
   - Gerenciamento de Cache:
     - Entidade Cache: Responsável por armazenar dados frequentemente acessados, melhorando a resposta do sistema.
@@ -197,7 +195,7 @@ Este documento apresenta a arquitetura de implantação de um sistema distribuí
 - Comunicação:
   - Conecta-se ao Web Server via HTTPS.
 
-### 8.3 Nó Web Server
+### 7.3 Nó Web Server
 - Componentes:
   - Amazon Server: Servidor de aplicação principal.
   - Permissão de Usuário: Gerencia as permissões e acessos dos usuários.
@@ -205,16 +203,16 @@ Este documento apresenta a arquitetura de implantação de um sistema distribuí
 - Comunicação:
   - Estabelece uma conexão HTTPS com outro nó Proxy.
 
-### 8.4 Segundo Nó Proxy
+### 7.4 Segundo Nó Proxy
 - Componentes e Entidades: Mesmos do primeiro nó Proxy.
 - Comunicação:
   - Conecta-se ao nó Database via TCP/IP.
 
-### 8.5 Nó Database
+### 7.5 Nó Database
 - Componentes:
   - Amazon Database: Responsável pelo armazenamento e gerenciamento de dados.
 
-### 8.6 Fluxo de Dados e Controle
+### 7.6 Fluxo de Dados e Controle
 1. Do Cliente ao Proxy: O tráfego inicia no Cliente, passa pelo Browser e é direcionado ao Proxy via TCP/IP.
 2. Do Proxy ao Web Server: O Proxy processa as requisições, aplicando cache, segurança e privacidade, antes de enviar ao Web Server via HTTPS.
 3. Do Web Server ao Database: Após processamento no Web Server, as requisições são encaminhadas através de um segundo Proxy para o Database para operações de dados.
@@ -222,9 +220,13 @@ Este documento apresenta a arquitetura de implantação de um sistema distribuí
 ### Conclusão
 Este sistema apresenta uma arquitetura robusta e segura, com ênfase em eficiência de processamento, segurança da informação e privacidade do usuário. Cada nó e componente é estrategicamente posicionado para otimizar a performance, segurança e escalabilidade do sistema.
 
+
+<!--
+
 ## 9. Tamanho e Performance
 
 ## 10. Qualidade 
+-->
 
 ## Referências
 
