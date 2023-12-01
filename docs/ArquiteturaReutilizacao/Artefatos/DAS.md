@@ -12,6 +12,7 @@
 | 0.4 | 30/11/2023 | Adição da estrutura visão de implantação | Diógenes Júnior |
 | 0.5 | 30/11/2023 | Adição do diagrama de implantação e documentação de seus respectivos componentes | Diógenes Júnior e Guilherme Kishimoto |
 | 0.6 | 30/11/2023 | Adição da visão lógica | Arthur Taylor e Thiago Oliveira |
+| 0.7 | 30/11/2023 | Adição do Diagrama de Casos de Uso | André Corrêa, Diógenes Júnior, Felipe Moura, Gabriel Mariano e Guilherme Kishimoto |
 
 *Tabela 1: Versionamento*
 
@@ -82,6 +83,51 @@ O diagrama de estados é mais um diagrama de modelagem dinâmica UML, ele consis
 ## 3. Objetivos e Restrições Arquiteturais
 
 ## 4. Visão de Casos de Uso
+
+Casos de uso são uma técnica de modelagem usada para descrever a funcionalidade de um sistema de forma a demonstrar como ele interage com entidades externas, conhecidas como atores. Em essência, um caso de uso descreve quem pode fazer o quê com o sistema em questão. Esta abordagem é utilizada para capturar requisitos funcionais, fornecendo uma visão clara de como o sistema deve se comportar.
+
+Casos de uso elicitados:
+<center>
+
+| Código  | Descrição do Caso de Uso       |
+|---------|--------------------------------|
+| UC01    | Fazer Avaliação                |
+| UC02    | Verificar Avaliação            |
+| UC03    | Avaliar em Anonimato           |
+| UC04    | Adicionar Comentário           |
+| UC05    | Adicionar Foto                 |
+| UC06    | Adicionar Vídeo                |
+| UC07    | Editar Avaliação               |
+| UC08    | Remover Avaliação              |
+| UC09    | Responder Avaliação            |
+| UC10    | Gostar da Avaliação            |
+| UC11    | Denunciar Avaliação            |
+| UC12    | Filtrar Avaliação              |
+| UC13    | Ganhar Pontos                  |
+| UC14    | Dar Pontos                     |
+| UC15    | Calcular Pontos                |
+| UC16    | Trocar Pontos                  |
+| UC17    | Validar Pontos                 |
+| UC18    | Notificar Usuário              |
+
+Tabela 2: Casos de uso elicitados
+
+</center> 
+
+Nosso diagrama de casos de uso foi elaborado com foco no fluxo de avaliação da Amazon, cobrindo dois aspectos principais: o processo de realização de avaliações e o sistema de pontuação. Esta abordagem ajuda a mapear todas as interações possíveis dos usuários com o sistema ao avaliar produtos, além de gerenciar um sistema de recompensas baseado em pontos.
+
+- **Processo de Avaliação:** Inclui ações como fazer, verificar, editar e remover avaliações, além de responder e denunciar avaliações.
+- **Sistema de Pontuação:** Envolve a dinâmica de ganhar, dar, calcular, trocar e validar pontos como parte do sistema de recompensas.
+
+Para desenvolver este diagrama, os integrantes André, Diógenes, Felipe, Gabriel Mariano e Guilherme se reuiniram e revisamos os artefatos da entrega base. Cujo utilizamos principalmente: mapa mental, brainstorm e o Rich Picture. Esses recursos foram essenciais para nos orientar na identificação e definição dos casos de uso.
+
+Com base nessa análise, decidimos sobre os casos de uso apresentados. Eles refletem não apenas as funcionalidades existentes do sistema da Amazon, mas também inovações propostas por nossa equipe, como a possibilidade de fazer avaliações anônimas e um sistema de pontuação mais envolvente, por exemplo. Abaixo, segue o diagrama de casos de uso:
+
+<center>
+
+![Diagrama de Casos de Uso](../../Assets/DiagramaCasosDeUso.png)
+
+</center>
 
 ## 5. Visão Lógica
 
