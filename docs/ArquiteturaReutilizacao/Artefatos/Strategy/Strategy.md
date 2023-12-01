@@ -8,6 +8,7 @@
 | :--: | :--: | :--: | :--: |
 | 0.1 | 30/11/2023 | Criação do documento | Diógenes Júnior e Guilherme Kishimoto |
 | 0.2 | 30/11/2023 | Adição de Código C++ do Strategy | Diógenes Júnior e Guilherme Kishimoto |
+| 0.3 | 30/11/2023 | Adição do Diagrama do Strategy| Diógenes Júnior e Guilherme Kishimoto |
 
 *Tabela 1: Versionamento*
 
@@ -36,6 +37,18 @@ Cada formato de avaliação é gerenciado por uma estratégia específica: TextS
 
 Ao considerar futuras expansões, como a possibilidade de incluir avaliações em áudio, por exemplo, o padrão Strategy demonstra seu valor. A implementação dessa nova funcionalidade exigiria apenas a criação de uma nova classe, como AudioStrategy. Esta classe seguiria a interface MediaStrategy, integrando-se facilmente ao sistema existente sem a necessidade de alterar as funcionalidades já implementadas.
 
+## Diagrama com as classes estruturadas no Strategy
+
+<details>
+<summary> <strong> CLIQUE PARA EXIBIR O DIAGRAMA </strong> </summary>
+
+![Strategy_Code](../../../Assets/Strategy/DiagramaStrategy.jpeg)
+
+*Figura 1: Diagrama Strategy*
+
+</details>
+
+
 ## Código Desenvolvido
 
 <details>
@@ -43,7 +56,7 @@ Ao considerar futuras expansões, como a possibilidade de incluir avaliações e
 
 ![Strategy_Code](../../../Assets/Strategy/strategy_cpp.png)
 
-*Figura 1: Código cpp*
+*Figura 2: Código cpp*
 
 </details>
 
@@ -56,7 +69,7 @@ A execução do código é feita através do terminal utilizando uma linha de co
 
 ![Executar](../../../Assets/Strategy/Executar.png)
 
-*Figura 2: Comando para executar*
+*Figura 3: Comando para executar*
 
 </details>
 
@@ -67,7 +80,7 @@ A execução do código é feita através do terminal utilizando uma linha de co
 
 ![Resultados](../../../Assets/Strategy/result.png)
 
-*Figura 3: Homepage*
+*Figura 4: Homepage*
 
 </details>
 
