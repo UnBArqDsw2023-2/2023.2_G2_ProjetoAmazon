@@ -111,7 +111,7 @@ Um diagrama de implantação é um tipo de diagrama UML (Unified Modeling Langua
 
 Este documento apresenta a arquitetura de implantação de um sistema distribuído, focado em eficiência, segurança e escalabilidade. O sistema é estruturado em vários nós principais: Cliente, Proxy, Web Server e Database, cada um com componentes e entidades específicas.
 
-![Diagrama de Implantação](../../Assets/Modelagem/DiagramaDeImplantacao.jpeg)
+![Diagrama de Implementação](../../Assets/Modelagem/DiagramaDeCompoonente_v2.png)
 
 ### 8.1 Nó Cliente
 - Componentes:
