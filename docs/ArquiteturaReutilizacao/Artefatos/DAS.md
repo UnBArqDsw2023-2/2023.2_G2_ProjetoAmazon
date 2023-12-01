@@ -7,9 +7,10 @@
 | **Versão** | **Data** | **Modificações** | **Autor(es)** |
 | :--: | :--: | :--: | :--: |
 | 0.1 | 29/11/2023 | Criação do documento | Felipe Candido de Moura |
-| 0.2 | 30/11/2023 | Adição de novas estruturas no documento DAS | Diógenes Júnior |
-| 0.3 | 30/11/2023 | Adição da estrutura visão de implantação | Diógenes Júnior |
-| 0.4 | 30/11/2023 | Adição do diagrama de implantação e documentação de seus respectivos componentes | Diógenes Júnior e Guilherme Kishimoto |
+| 0.2 | 30/11/2023 | Adição do texto da visão de implemetação | Eduardo, Pedro e Lorenzo |
+| 0.3 | 30/11/2023 | Adição de novas estruturas no documento DAS | Diógenes Júnior |
+| 0.4 | 30/11/2023 | Adição da estrutura visão de implantação | Diógenes Júnior |
+| 0.5 | 30/11/2023 | Adição do diagrama de implantação e documentação de seus respectivos componentes | Diógenes Júnior e Guilherme Kishimoto |
 
 *Tabela 1: Versionamento*
 
@@ -99,6 +100,12 @@ Para o projeto, foram desenvolvidos dois diagramas de sequência que explicitam 
 
 
 ## 7. Visão de Implementação 
+
+A visão arquitetural de implemetação tem como objetivo ser mais objetiva nas decisões sobre estruturamento de código, frameworks, reutilização de código, tecnologias, etc. Tendo essa visão em em mente, realizamos uma extensa série de estudos para aprofundar nossa compreensão sobre as nuances da visão arquitetural e da visão de implementação. Foi imperativo revisitar o módulo de UML para compreender como um diagrama de componentes opera. 
+ 
+Após a conclusão desses estudos, os alunos Eduardo, Pedro e Lorenzo elaboraram um diagrama de componente. Com o auxílio  de Arthur, que revisou ambos os diagramas, chegamos à versão final combinada, consolidando os elementos mais eficazes de ambas as versões anteriores. 
+
+![Diagrama de Implementação](../../Assets/Modelagem/DiagramaDeCompoonente_v2.png)
 
 ## 8. Visão de Implantação
 
