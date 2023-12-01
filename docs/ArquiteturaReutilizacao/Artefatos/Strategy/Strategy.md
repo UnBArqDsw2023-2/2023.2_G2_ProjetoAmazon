@@ -39,6 +39,10 @@ Ao considerar futuras expansões, como a possibilidade de incluir avaliações e
 
 ## Diagrama com as classes estruturadas no Strategy
 
+
+[!NOTE]  
+O código apresentado abaixo pode ser encontrado no [Repositório do GitHub](https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/tree/main/docs/ArquiteturaReutilizacao/Artefatos/Observer/C%C3%B3digoObserver).
+
 <details>
 <summary> <strong> CLIQUE PARA EXIBIR O DIAGRAMA </strong> </summary>
 

@@ -41,6 +41,10 @@ Está dividio em 3 arquivos e 2 bibliotecas:
 
 ## Código Desenvolvido
 
+[!NOTE]  
+O código apresentado abaixo pode ser encontrado no [Repositório do GitHub](https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/tree/main/docs/ArquiteturaReutilizacao/Artefatos/Observer/C%C3%B3digoObserver).
+
+
 <details>
 <summary> <strong> CLIQUE PARA EXIBIR O CÓDIGO </strong> </summary>
 

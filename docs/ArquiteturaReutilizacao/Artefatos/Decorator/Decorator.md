@@ -52,6 +52,9 @@ Está dividio em 4 arquivos e 6 bibliotecas:
 
 ## Código Desenvolvido
 
+[!NOTE]  
+O código apresentado abaixo pode ser encontrado no [Repositório do GitHub](https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/tree/main/docs/ArquiteturaReutilizacao/Artefatos/Decorator/C%C3%B3digoDecorator).
+
 <details>
 <summary> <strong> CLIQUE PARA EXIBIR O CÓDIGO </strong> </summary>
 
