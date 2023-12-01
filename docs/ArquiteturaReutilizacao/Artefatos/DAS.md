@@ -105,13 +105,15 @@ A visão arquitetural de implemetação tem como objetivo ser mais objetiva nas 
  
 Após a conclusão desses estudos, os alunos Eduardo, Pedro e Lorenzo elaboraram um diagrama de componente. Com o auxílio  de Arthur, que revisou ambos os diagramas, chegamos à versão final combinada, consolidando os elementos mais eficazes de ambas as versões anteriores. 
 
+![Diagrama de Implementação](../../Assets/Modelagem/DiagramaDeCompoonente_v2.png)
+
 ## 8. Visão de Implantação
 
 Um diagrama de implantação é um tipo de diagrama UML (Unified Modeling Language) que representa a disposição física de elementos de um sistema em hardware. Ele mostra como os vários componentes de software, como aplicativos, servidores e dispositivos de armazenamento, estão distribuídos em diferentes nós de hardware, como computadores físicos ou máquinas virtuais.
 
 Este documento apresenta a arquitetura de implantação de um sistema distribuído, focado em eficiência, segurança e escalabilidade. O sistema é estruturado em vários nós principais: Cliente, Proxy, Web Server e Database, cada um com componentes e entidades específicas.
 
-![Diagrama de Implementação](../../Assets/Modelagem/DiagramaDeCompoonente_v2.png)
+![Diagrama de Implantação](../../Assets/Modelagem/DiagramaDeImplantacao.jpeg)
 
 ### 8.1 Nó Cliente
 - Componentes:
