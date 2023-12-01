@@ -11,6 +11,8 @@
 | 0.3 | 30/11/2023 | Início da Documentação do Código | Felipe Moura, André Corrêa e Gabriel Mariano |
 | 0.4 | 30/11/2023 | Finalizando Documentação do Código | Felipe Moura, André Corrêa e Gabriel Mariano |
 | 0.5 | 30/11/2023 | Documentando o uso de *Dependency* *Injection* | Felipe Moura, André Corrêa e Gabriel Mariano |
+| 0.6 | 01/12/2023 | Adicionando o *link* para o código no repositório do *GitHub* | André Corrêa e Gabriel Mariano |
+
 
 *Tabela 1: Versionamento*
 
@@ -145,6 +147,10 @@ Esses provedores de dependências são injetados, em nosso contexto, nos método
 *Figura 7: App Controller*
 
 ## Código Desenvolvido
+
+
+[!NOTE]  
+O código apresentado abaixo pode ser encontrado no [Repositório do GitHub](https://github.com/UnBArqDsw2023-2/2023.2_G2_ProjetoAmazon/tree/main/docs/ArquiteturaReutilizacao/Artefatos/ClientServer/amazon-avaliacao).
 
 O *framework NestJS* apresenta uma estrutura baseada, em termos gerais, em *modules*, *controllers* e *services*, onde cada um destes possui uma finalidade no manejo de requisições, processamento de dados e retorno das informações requeridas em forma de respostas ao cliente.
 
