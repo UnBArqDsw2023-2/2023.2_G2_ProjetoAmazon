@@ -149,17 +149,66 @@ Ambos os diagramas foram desenvolvidos buscando analisar o escopo de avaliar um 
 
 ## 5. Visão de Processo
 
-A visão de processo, visa descrever os processos do sistema e suas comunicações de forma à explicitar e facilitar o entendimento das interações entre seus diferentes componentes.
+Para o projeto, foi desenvolvidos um diagrama de processo que explicíta tais processos em forma de _threads_ que executam atividades essênciais do sistema. As interações são feitas por meio de funções representativas que guiam o fluxo de processo com base no que é possível ser realizado.
 
-Para o projeto, foram desenvolvidos dois diagramas de sequência que explicitam os processos que envolvem a avaliação de produtos, sendo o primeiro (Figura **X**) referente ao processo de avaliação como um todo, e o segundo (Figura **X**) mais específico ao processo de troca de pontos.
+![Diagrama de Processo](../../Assets/diagramaVisaoProcesso.jpg)
 
-![Diagrama de Sequência Avaliação](../../Assets/Modelagem/DiagramaSequencia1_v3.jpg)
+*Figura X: Diagrama de Processo*
 
-*Figura X: Diagrama de Sequência do Fluxo de Avaliação* 
+Abaixo estão descritas as funções referentes aos principais processos:
 
-![Diagrama de Sequência Avaliação](../../Assets/Modelagem/DiagramaSequencia2_v3.jpg)
+### Usuário
 
-*Figura X: Diagrama de Sequência do Fluxo de Troca de Pontos* 
+| Nome | Descrição | Destino |
+|------|-----------|---------|
+| u1: postarComentario() | Posta um comentário | GestãoComentário |
+| u2: editarComentario() | Edita um comentário | GestãoComentário |
+| u3: deletarComentario() | Deleta um comentário | GestãoComentário |
+| u4: avaliarAvaliacao() |  Avalia uma avaliação já existente | GestãoComentário |
+| u5: postarAvaliacao() | Posta uma avaliação de um produto | GestãoComentário |
+| u6: verAvaliacoes() | Visualiza as avaliações existentes | GestãoComentário |
+| u7: atualizarAvaliacao() | Atualiza uma avaliação | GestãoComentário |
+| u8: deletarAvaliacao() | Deleta uma avaliação | GestãoComentário |
+| u9: buscarProduto() | Busca os produtos aptos a serem trocados | ProgramaRecompensa |
+| u10: resgatarProduto() | Resgata um produto em troca de pontos | ProgramaRecompensa |
+| u11: verificarPontos() | Verifica os pontos já obtidos | ProgramaRecompensa |
+
+*Tabela X: Descrição do processo Usuário*
+
+
+### Moderador
+
+| Nome | Descrição | Destino |
+|------|-----------|---------|
+| m1: validaAvaliacao() | Retorna se um comentário foi validado ou não | GestãoComentário |
+
+*Tabela X: Descrição do processo Moderador*
+
+### ProgramaRecompensa
+
+| Nome | Descrição | Destino |
+|------|-----------|---------|
+| pr1: mostrarProdutos() | Retorna os produtos disponíveis para troca | Usuário |
+| pr2: resgatarProduto() | Valida e realiza a troca se foi bem sucedida | Usuário |
+| pr3: mostrarPontos() | Retorna a quantidade de pontos do usuário| Usuário |
+| pr4: buscarProduto() | Busca os produtos disponíveis no banco de dados de produtos | BancoDadosProdutos |
+| pr5: atualizarProduto() | Atualiza o estado dos produtos (disponível/indisponível) | BancoDadosProdutos |
+
+*Tabela X: Descrição do processo ProgramaRecompensa*
+
+### GestãoComentário
+
+| Nome | Descrição | Destino |
+|------|-----------|---------|
+| c1: requisitaValidacao() | Requisita a validação de um comentráio | Moderador |
+| c2: mostraAvaliacoes() | Retorna as avaliações existentes | Usuário |
+| c3: pontuarUsuario() | Pontua o usuário com base nas avaliações e reações a comentários feita | ProgramaRecompensa |
+| c4: buscarAvaliacao() | Busca as avaliações existentes no banco de dados | BancoDadosAvaliacao |
+| c5: inserirAvaliacao() | Inseri uma nova avaliação no banco de dados | BancoDadosAvaliacao |
+| c6: excluirAvaliacao() | Exclui uma avaliação do banco de dados | BancoDadosAvaliacao |
+| c7: atualizarAvaliacao() | Atualiza uma avaliação do banco de dados| BancoDadosAvaliacao |
+
+*Tabela X: Descrição do processo GestãoComentário*
 
 
 ## 6. Visão de Implementação 
