@@ -10,6 +10,7 @@
 | 0.2 | 30/11/2023 | Documentação das atividades realizadas | Felipe Moura, André Corrêa e Gabriel Mariano |
 | 0.3 | 30/11/2023 | Início da Documentação do Código | Felipe Moura, André Corrêa e Gabriel Mariano |
 | 0.4 | 30/11/2023 | Finalizando Documentação do Código | Felipe Moura, André Corrêa e Gabriel Mariano |
+| 0.5 | 30/11/2023 | Documentando o uso de *Dependency* *Injection* | Felipe Moura, André Corrêa e Gabriel Mariano |
 
 *Tabela 1: Versionamento*
 
@@ -18,7 +19,7 @@
 
 ## Introdução
 
-Com a proposta de demosntrar o estilo arquitetural _Client-Server_, desenvolvemos uma aplicação em [NestJS](https://nestjs.com) que recebe uma requisição http de um cliente e retorna uma _response_ contendo o conteúdo que foi solicitado.
+Com a proposta de demonstrar o estilo arquitetural _Client-Server_, desenvolvemos uma aplicação em [NestJS](https://nestjs.com) que recebe uma requisição *HTTP* de um cliente e retorna uma _response_ contendo o conteúdo solicitado.
 
 ## Tecnologias
 
@@ -121,6 +122,28 @@ Para tal, foi escolhido o *framework NestJS* enquanto responsável pelo recebime
 
 O **NestJS** é definido em sua [documentação](https://docs.nestjs.com/) como sendo "um *framework* para a construção de aplicações *Node.js* *'server-side'* eficientes e escaláveis". Dada sua natureza *"server-side"* e seu desenvolvimento voltado ao *back-end*, esse se apresentou como sendo adequado para demonstrar características básicas do estilo arquitetural cliente-servidor.
 
+### Como o NestJS se relaciona com o conceito de Dependency Injection?
+
+O conceito de *dependency injection*, conforme descrito na [**Documentação do Angular**](https://angular.io/guide/dependency-injection), se baseia na existência de dois papéis: "consumidor de dependência e provedor de dependência".
+
+No contexto do *NestJS*, os **providers** que, segundo a [**Documentação do NestJS**](https://docs.nestjs.com/providers#dependency-injection), podem ser utilizados na injeção de dependência, são definidos nos *modules* da aplicação, conforme pode ser visto abaixo onde o ```AppService``` é injetado:
+
+![APP MODULE](../../../Assets/ClientServer/appmodule.png)
+
+*Figura 5: App Module*
+
+Observando a classe ```AppService```, podemos observar o uso do *decorator* ```@Injectable()```, que indica que a classe será um *provider* (ou seja, um provedor de dependência).
+
+![APP SERVICE](../../../Assets/ClientServer/appservice.png)
+
+*Figura 6: App Service*
+
+Esses provedores de dependências são injetados, em nosso contexto, nos métodos construtores dos *controllers* através do conceito de *constructor-based injection*, também descrito na [**Documentação do NestJS**](https://docs.nestjs.com/providers#dependency-injection). Tal injeção pode ser observada na classe ```AppController```, conforme pode ser visto abaixo:
+
+![APP CONTROLLER](../../../Assets/ClientServer/appcontroller.png)
+
+*Figura 7: App Controller*
+
 ## Código Desenvolvido
 
 O *framework NestJS* apresenta uma estrutura baseada, em termos gerais, em *modules*, *controllers* e *services*, onde cada um destes possui uma finalidade no manejo de requisições, processamento de dados e retorno das informações requeridas em forma de respostas ao cliente.
@@ -136,7 +159,7 @@ O arquivo ```main.ts``` é responsável por instanciar a aplicação e indicar a
 
 ![MAIN](../../../Assets/ClientServer/main.png)
 
-*Figura 5: Main*
+*Figura 8: Main*
 
 </details>
 
@@ -149,7 +172,7 @@ Os arquivos ```*.module.ts``` são responsáveis pela organização da estrutura
 
 ![APP MODULE](../../../Assets/ClientServer/appmodule.png)
 
-*Figura 6: App Module*
+*Figura 9: App Module*
 
 </details>
 
@@ -158,7 +181,7 @@ Os arquivos ```*.module.ts``` são responsáveis pela organização da estrutura
 
 ![APP MODULE](../../../Assets/ClientServer/avaliacaomodule.png)
 
-*Figura 7: Avaliação Module*
+*Figura 10: Avaliação Module*
 
 </details>
 
@@ -167,7 +190,7 @@ Os arquivos ```*.module.ts``` são responsáveis pela organização da estrutura
 
 ![APP MODULE](../../../Assets/ClientServer/pontosmodule.png)
 
-*Figura 8: Pontos Module*
+*Figura 11: Pontos Module*
 
 </details>
 
@@ -180,7 +203,7 @@ Os *controllers*, de certa forma, definem os serviços a serem executados de aco
 
 ![APP CONTROLLER](../../../Assets/ClientServer/appcontroller.png)
 
-*Figura 9: App Controller*
+*Figura 12: App Controller*
 
 </details>
 
@@ -189,7 +212,7 @@ Os *controllers*, de certa forma, definem os serviços a serem executados de aco
 
 ![AVALIAÇÃO CONTROLLER](../../../Assets/ClientServer/avaliacaocontroller.png)
 
-*Figura 10: Avaliação Controller*
+*Figura 13: Avaliação Controller*
 
 </details>
 
@@ -198,7 +221,7 @@ Os *controllers*, de certa forma, definem os serviços a serem executados de aco
 
 ![PONTOS CONTROLLER](../../../Assets/ClientServer/pontoscontroller.png)
 
-*Figura 11: Pontos Controller*
+*Figura 14: Pontos Controller*
 
 </details>
 
@@ -211,7 +234,7 @@ Os *services* são responsáveis por receber, caso necessário, o conteúdo poss
 
 ![APP SERVICE](../../../Assets/ClientServer/appservice.png)
 
-*Figura 12: App Service*
+*Figura 15: App Service*
 
 </details>
 
@@ -220,7 +243,7 @@ Os *services* são responsáveis por receber, caso necessário, o conteúdo poss
 
 ![AVALIAÇÃO SERVICE](../../../Assets/ClientServer/avaliacaoservice.png)
 
-*Figura 13: Avaliação Service*
+*Figura 16: Avaliação Service*
 
 </details>
 
@@ -229,7 +252,7 @@ Os *services* são responsáveis por receber, caso necessário, o conteúdo poss
 
 ![PONTOS SERVICE](../../../Assets/ClientServer/pontosservice.png)
 
-*Figura 14: Pontos Service*
+*Figura 17: Pontos Service*
 
 </details>
 
@@ -250,3 +273,7 @@ Os *services* são responsáveis por receber, caso necessário, o conteúdo poss
 **NESTJS**. "NestJS". Disponível em: <https://nodejs.org/en/download/package-manager>. Acesso em 30 nov 2023. Disponível em: <https://nestjs.com/>. Acesso em 30 nov 2023.
 
 **YARN**. "Installation". Disponível em: <https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable>. Acesso em 30 nov 2023.
+
+**NESTJS**. "Providers". Disponível em: <https://docs.nestjs.com/providers#dependency-injection>. Acesso em 30 nov 2023.
+
+**ANGULAR**. "Understanding dependency injection". Disponível em: <https://angular.io/guide/dependency-injection>. Acesso em 30 nov 2023.
