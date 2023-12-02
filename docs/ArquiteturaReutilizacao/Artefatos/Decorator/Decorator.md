@@ -9,6 +9,7 @@
 |    0.1     | 30/11/2023 |       Criação do documento       | Arthur Taylor e Thiago Oliveira |
 |    0.2     | 30/11/2023 |       Revisão do documento       | Arthur Taylor e Thiago Oliveira |
 |    0.3     | 01/12/2023 |       *Quickfix*: Nome do Padrão *Decorator* no Título       | André Corrêa e Gabriel Mariano |
+|    0.4     | 01/12/2023 |       Adição do diagrama         | Arthur Taylor e Thiago Oliveira |
 
 
 _Tabela 1: Versionamento_
@@ -49,6 +50,18 @@ Está dividio em 4 arquivos e 6 bibliotecas:
 |    decorator.hpp              | Contém as assinaturas e classes utilizadas  |
 |    printResult.hpp            | Contém as assinaturas e classes utilizadas  |
 
+## Diagrama
+
+
+<details>
+<summary> <strong> CLIQUE PARA EXIBIR O DIAGRAMA </strong> </summary>
+
+![Executar](../../../Assets/Decorator/diagramaDecorator.png)
+
+_Figura 1: Diagrama Decorator_
+
+</details>
+
 
 ## Código Desenvolvido
 
@@ -60,43 +73,43 @@ O código apresentado abaixo pode ser encontrado no [Repositório do GitHub](htt
 
 ![Decorator_addMedia](../../../Assets/Decorator/addMedia.png)
 
-_Figura 1: Código do addMedia.cpp_
+_Figura 2: Código do addMedia.cpp_
 
 ![Decorator_avaliacao](../../../Assets/Decorator/avaliacao.png)
 
-_Figura 2: Código do avaliacao.hpp_
+_Figura 3: Código do avaliacao.hpp_
 
 ![Decorator_avaliaCategoria](../../../Assets/Decorator/avaliaCategoria.png)
 
-_Figura 3: Código do avaliaCategoria.cpp_
+_Figura 4: Código do avaliaCategoria.cpp_
 
 ![Decorator_avaliacaoBase](../../../Assets/Decorator/avaliacaoBase.png)
 
-_Figura 4: Código do avaliacaoBase.hpp_
+_Figura 5: Código do avaliacaoBase.hpp_
 
 ![Decorator_concreteDecoratorA](../../../Assets/Decorator/concreteDecoratorA.png)
 
-_Figura 5: Código do concreteDecoratorA.hpp_
+_Figura 6: Código do concreteDecoratorA.hpp_
 
 ![Decorator_concreteDecoratorB](../../../Assets/Decorator/concreteDecoratorB.png)
 
-_Figura 6: Código do concreteDecoratorB.hpp_
+_Figura 7: Código do concreteDecoratorB.hpp_
 
 ![Decorator_decoradorCPP](../../../Assets/Decorator/decoradorCPP.png)
 
-_Figura 7: Código do decorador.cpp_
+_Figura 8: Código do decorador.cpp_
 
 ![Decorator_decorador](../../../Assets/Decorator/decorador.png)
 
-_Figura 8: Código do decorador.hpp_
+_Figura 9: Código do decorador.hpp_
 
 ![Decorator_main](../../../Assets/Decorator/main.png)
 
-_Figura 9: Código do main.cpp_
+_Figura 10: Código do main.cpp_
 
 ![Decorator_printResult](../../../Assets/Decorator/printResult.png)
 
-_Figura 10: Código do printResult.hpp_
+_Figura 11: Código do printResult.hpp_
 
 </details>
 
@@ -109,7 +122,7 @@ A execução do código é feita através do terminal utilizando uma linha de co
 
 ![Executar](../../../Assets/Decorator/execucao-e-resultado.png)
 
-_Figura 11: Comando para executar e resultados_
+_Figura 12: Comando para executar e resultados_
 
 </details>
 
